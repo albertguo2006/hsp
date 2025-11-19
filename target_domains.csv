@@ -1,0 +1,2292 @@
+Target_ID,Target_Protein_Name,Domain_ID
+P09496,Clathrin light chain A,PF01086
+P09758,Tumor-associated calcium signal transducer 2,PF21283
+P09758,Tumor-associated calcium signal transducer 2,PF18635
+P09758,Tumor-associated calcium signal transducer 2,PF00086
+Q00587,Cdc42 effector protein 1,PF14957
+Q00587,Cdc42 effector protein 1,PF00786
+Q5JSP0,"FYVE, RhoGEF and PH domain-containing protein 3",PF01363
+Q5JSP0,"FYVE, RhoGEF and PH domain-containing protein 3",PF00169
+Q5JSP0,"FYVE, RhoGEF and PH domain-containing protein 3",PF00621
+Q6XPS3,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase TPTE2",PF00520
+Q6XPS3,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase TPTE2",PF10409
+Q6XPS3,"Phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase TPTE2",PF22784
+Q8NI36,WD repeat-containing protein 36,PF25171
+Q8NI36,WD repeat-containing protein 36,PF25168
+Q8NI36,WD repeat-containing protein 36,PF04192
+O95503,Chromobox protein homolog 6,PF17218
+O95503,Chromobox protein homolog 6,PF00385
+P60953,Cell division control protein 42 homolog,PF00071
+Q9UQ80,Proliferation-associated protein 2G4,PF00557
+P68431,Histone H3.1,PF00125
+P53004,Biliverdin reductase A,PF09166
+P53004,Biliverdin reductase A,PF01408
+Q9NYJ8,TGF-beta-activated kinase 1 and MAP3K7-binding protein 2,PF02845
+Q14667,Bridge-like lipid transfer protein family member 2,PF10344
+P84022,Mothers against decapentaplegic homolog 3,PF03165
+P84022,Mothers against decapentaplegic homolog 3,PF03166
+Q3B7T1,Erythroid differentiation-related factor 1,PF23788
+Q3B7T1,Erythroid differentiation-related factor 1,PF23723
+Q05175,Brain acid soluble protein 1,PF05466
+Q4G0F5,Vacuolar protein sorting-associated protein 26B,PF03643
+Q9H939,Proline-serine-threonine phosphatase-interacting protein 2,PF00611
+Q77NN7,Transcriptional regulator ICP22 homolog,PF02479
+C5E526,RNA-directed RNA polymerase catalytic subunit,PF00602
+Q13882,Protein-tyrosine kinase 6,PF07714
+Q13882,Protein-tyrosine kinase 6,PF00017
+Q13882,Protein-tyrosine kinase 6,PF00018
+O60294,tRNA wybutosine-synthesizing protein 4,PF24681
+O60294,tRNA wybutosine-synthesizing protein 4,PF04072
+Q6J9G0,Tyrosine-protein kinase STYK1,PF07714
+Q9H8K7,ATPase PAAT,PF14958
+P37840,Alpha-synuclein,PF01387
+Q13617,Cullin-2,PF00888
+Q13617,Cullin-2,PF10557
+Q96FC9,ATP-dependent DNA helicase DDX11,PF06733
+Q96FC9,ATP-dependent DNA helicase DDX11,PF13307
+Q9NXX6,Non-structural maintenance of chromosomes element 4 homolog A,PF15412
+Q9NXX6,Non-structural maintenance of chromosomes element 4 homolog A,PF08743
+P67809,Y-box-binding protein 1,PF00313
+Q7L5A3,Atos homolog protein B,PF13889
+Q7L5A3,Atos homolog protein B,PF13915
+Q15256,Receptor-type tyrosine-protein phosphatase R,PF00102
+Q92597,Protein NDRG1,PF03096
+O95831,"Apoptosis-inducing factor 1, mitochondrial",PF14721
+O95831,"Apoptosis-inducing factor 1, mitochondrial",PF07992
+Q8NER5,Activin receptor type-1C,PF01064
+Q8NER5,Activin receptor type-1C,PF07714
+Q8NER5,Activin receptor type-1C,PF08515
+D3ZYR1,F-BAR domain only protein 2,PF22699
+D3ZYR1,F-BAR domain only protein 2,PF10291
+P63313,Thymosin beta-10,PF01290
+Q3MJ13,WD repeat-containing protein 72,PF00400
+Q3MJ13,WD repeat-containing protein 72,PF23123
+Q77M19,Non-structural protein V,PF13825
+Q77M19,Non-structural protein V,PF13008
+F1LN75,Septin-9,PF00735
+Q9Y496,Kinesin-like protein KIF3A,PF00225
+A0JLT2,Mediator of RNA polymerase II transcription subunit 19,PF10278
+P02768,Albumin,PF00273
+Q13164,Mitogen-activated protein kinase 7,PF00069
+Q8NBA8,tRNA-uridine aminocarboxypropyltransferase 2,PF03942
+O94966,Ubiquitin carboxyl-terminal hydrolase 19,PF04969
+O94966,Ubiquitin carboxyl-terminal hydrolase 19,PF00443
+O94966,Ubiquitin carboxyl-terminal hydrolase 19,PF16602
+O94966,Ubiquitin carboxyl-terminal hydrolase 19,PF01753
+Q9BV44,tRNA,PF02926
+Q9BV44,tRNA,PF01170
+Q13326,Gamma-sarcoglycan,PF04790
+Q14008,Cytoskeleton-associated protein 5,PF12348
+Q14008,Cytoskeleton-associated protein 5,PF21041
+Q9H6S3,Epidermal growth factor receptor kinase substrate 8-like protein 2,PF22975
+Q9H6S3,Epidermal growth factor receptor kinase substrate 8-like protein 2,PF08416
+Q9H6S3,Epidermal growth factor receptor kinase substrate 8-like protein 2,PF18016
+Q9H6S3,Epidermal growth factor receptor kinase substrate 8-like protein 2,PF00018
+P58340,Myeloid leukemia factor 1,PF10248
+P51809,Vesicle-associated membrane protein 7,PF13774
+P51809,Vesicle-associated membrane protein 7,PF00957
+P35240,Merlin,PF00769
+P35240,Merlin,PF20492
+P35240,Merlin,PF09380
+P35240,Merlin,PF00373
+P35240,Merlin,PF09379
+Q6ZWV7,Large ribosomal subunit protein uL29,PF00831
+Q9JJ19,Na,PF09007
+Q9JJ19,Na,PF00595
+Q8K2C9,Very-long-chain,PF04387
+Q9UKD2,mRNA turnover protein 4 homolog,PF00466
+Q9UKD2,mRNA turnover protein 4 homolog,PF17777
+Q13398,Zinc finger protein 211,PF01352
+Q13398,Zinc finger protein 211,PF00096
+Q13398,Zinc finger protein 211,PF13912
+Q498N4,Phosphatidylinositol-binding clathrin assembly protein,PF07651
+Q5JTY5,Zinc-regulated GTPase metalloprotein activator 1C,PF02492
+Q5JTY5,Zinc-regulated GTPase metalloprotein activator 1C,PF07683
+Q12866,Tyrosine-protein kinase Mer,PF00041
+Q12866,Tyrosine-protein kinase Mer,PF00047
+Q12866,Tyrosine-protein kinase Mer,PF13927
+Q12866,Tyrosine-protein kinase Mer,PF07714
+P43250,G protein-coupled receptor kinase 6,PF00069
+P43250,G protein-coupled receptor kinase 6,PF00615
+Q8N392,Rho GTPase-activating protein 18,PF00620
+Q8N392,Rho GTPase-activating protein 18,PF25442
+Q9P2G9,Kelch-like protein 8,PF07707
+Q9P2G9,Kelch-like protein 8,PF00651
+Q9P2G9,Kelch-like protein 8,PF01344
+Q9P2G9,Kelch-like protein 8,PF24681
+P54652,Heat shock-related 70 kDa protein 2,PF00012
+Q14651,Plastin-1,PF00307
+Q14651,Plastin-1,PF13499
+Q8NC51,SERPINE1 mRNA-binding protein 1,PF04774
+Q8NC51,SERPINE1 mRNA-binding protein 1,PF16174
+Q9H4M9,EH domain-containing protein 1,PF18150
+Q9H4M9,EH domain-containing protein 1,PF00350
+Q9H4M9,EH domain-containing protein 1,PF12763
+Q9H4M9,EH domain-containing protein 1,PF16880
+Q14684,Ribosomal RNA processing protein 1 homolog B,PF05997
+O14936,Peripheral plasma membrane protein CASK,PF00625
+O14936,Peripheral plasma membrane protein CASK,PF02828
+O14936,Peripheral plasma membrane protein CASK,PF00595
+O14936,Peripheral plasma membrane protein CASK,PF00069
+O14936,Peripheral plasma membrane protein CASK,PF07653
+P13569,Cystic fibrosis transmembrane conductance regulator,PF00664
+P13569,Cystic fibrosis transmembrane conductance regulator,PF00005
+P13569,Cystic fibrosis transmembrane conductance regulator,PF14396
+P48449,Lanosterol synthase,PF13243
+P48449,Lanosterol synthase,PF13249
+P22607,Fibroblast growth factor receptor 3,PF21165
+P22607,Fibroblast growth factor receptor 3,PF07679
+P22607,Fibroblast growth factor receptor 3,PF13927
+P22607,Fibroblast growth factor receptor 3,PF07714
+P0DTC3,ORF3a protein,PF11289
+Q99742,Neuronal PAS domain-containing protein 1,PF23171
+Q99742,Neuronal PAS domain-containing protein 1,PF00989
+Q99742,Neuronal PAS domain-containing protein 1,PF08447
+Q8N954,G patch domain-containing protein 11,PF13821
+Q8N954,G patch domain-containing protein 11,PF01585
+Q96AQ9,Protein FAM131C,PF15010
+Q6IAW5,Calumenin,PF13202
+A0AUL9,ATG2A protein,PF13329
+Q13277,Syntaxin-3,PF05739
+Q13277,Syntaxin-3,PF00804
+Q8IY21,Probable ATP-dependent RNA helicase DDX60,PF00270
+Q8IY21,Probable ATP-dependent RNA helicase DDX60,PF00271
+Q8IY21,Probable ATP-dependent RNA helicase DDX60,PF23002
+Q8WW22,DnaJ homolog subfamily A member 4,PF00226
+Q8WW22,DnaJ homolog subfamily A member 4,PF01556
+Q8WW22,DnaJ homolog subfamily A member 4,PF00684
+P27708,Multifunctional protein CAD,PF01979
+P27708,Multifunctional protein CAD,PF02786
+P27708,Multifunctional protein CAD,PF02787
+P27708,Multifunctional protein CAD,PF00988
+P27708,Multifunctional protein CAD,PF00117
+P27708,Multifunctional protein CAD,PF02142
+P27708,Multifunctional protein CAD,PF00185
+P27708,Multifunctional protein CAD,PF02729
+O94955,Rho-related BTB domain-containing protein 3,PF00651
+O94955,Rho-related BTB domain-containing protein 3,PF00071
+P08579,U2 small nuclear ribonucleoprotein B'',PF00076
+Q9UJ41,Rab5 GDP/GTP exchange factor,PF18151
+Q9UJ41,Rab5 GDP/GTP exchange factor,PF02204
+Q9UJ41,Rab5 GDP/GTP exchange factor,PF01754
+Q01484,Ankyrin-2,PF00023
+Q01484,Ankyrin-2,PF12796
+Q01484,Ankyrin-2,PF13637
+Q01484,Ankyrin-2,PF00531
+Q01484,Ankyrin-2,PF17809
+Q01484,Ankyrin-2,PF00791
+Q13191,E3 ubiquitin-protein ligase CBL-B,PF02262
+Q13191,E3 ubiquitin-protein ligase CBL-B,PF02761
+Q13191,E3 ubiquitin-protein ligase CBL-B,PF02762
+Q13191,E3 ubiquitin-protein ligase CBL-B,PF00097
+Q9UK39,Nocturnin,PF03372
+P56545,C-terminal-binding protein 2,PF00389
+P56545,C-terminal-binding protein 2,PF02826
+Q10713,Mitochondrial-processing peptidase subunit alpha,PF00675
+Q10713,Mitochondrial-processing peptidase subunit alpha,PF05193
+Q8IZ07,Ankyrin repeat domain-containing protein 13A,PF12796
+Q8IZ07,Ankyrin repeat domain-containing protein 13A,PF11904
+Q9BW83,Intraflagellar transport protein 27 homolog,PF00071
+O60506,Heterogeneous nuclear ribonucleoprotein Q,PF18360
+O60506,Heterogeneous nuclear ribonucleoprotein Q,PF00076
+Q9HDB5,Neurexin-3-beta,PF02210
+Q9HDB5,Neurexin-3-beta,PF01034
+P26641,Elongation factor 1-gamma,PF00647
+P26641,Elongation factor 1-gamma,PF00043
+P26641,Elongation factor 1-gamma,PF02798
+P50579,Methionine aminopeptidase 2,PF00557
+Q5SVS4,Kidney mitochondrial carrier protein 1,PF00153
+P03428,Polymerase basic protein 2,PF20947
+P03428,Polymerase basic protein 2,PF20948
+P03428,Polymerase basic protein 2,PF20949
+P03428,Polymerase basic protein 2,PF20950
+P03428,Polymerase basic protein 2,PF00604
+P03428,Polymerase basic protein 2,PF20951
+P03428,Polymerase basic protein 2,PF20952
+O15259,Nephrocystin-1,PF00018
+Q14147,Probable ATP-dependent RNA helicase DHX34,PF00270
+Q14147,Probable ATP-dependent RNA helicase DHX34,PF21010
+Q14147,Probable ATP-dependent RNA helicase DHX34,PF04408
+Q14147,Probable ATP-dependent RNA helicase DHX34,PF00271
+Q14147,Probable ATP-dependent RNA helicase DHX34,PF07717
+Q14147,Probable ATP-dependent RNA helicase DHX34,PF24485
+Q9NXB0,Tectonic-like complex member MKS1,PF07162
+P58546,Myotrophin,PF12796
+Q15334,Lethal,PF08366
+Q03135,Caveolin-1,PF01146
+Q16526,Cryptochrome-1,PF00875
+Q16526,Cryptochrome-1,PF03441
+Q9H5Z1,Probable ATP-dependent RNA helicase DHX35,PF21010
+Q9H5Z1,Probable ATP-dependent RNA helicase DHX35,PF04408
+Q9H5Z1,Probable ATP-dependent RNA helicase DHX35,PF00271
+Q9H5Z1,Probable ATP-dependent RNA helicase DHX35,PF07717
+Q9NRD5,PRKCA-binding protein,PF06456
+Q9NRD5,PRKCA-binding protein,PF00595
+Q13200,26S proteasome non-ATPase regulatory subunit 2,PF01851
+Q13200,26S proteasome non-ATPase regulatory subunit 2,PF18051
+Q13200,26S proteasome non-ATPase regulatory subunit 2,PF17781
+Q9Y3A5,Ribosome maturation protein SBDS,PF20268
+Q9Y3A5,Ribosome maturation protein SBDS,PF09377
+Q9Y3A5,Ribosome maturation protein SBDS,PF01172
+Q9UNE7,E3 ubiquitin-protein ligase CHIP,PF12895
+Q9UNE7,E3 ubiquitin-protein ligase CHIP,PF18391
+Q9UNE7,E3 ubiquitin-protein ligase CHIP,PF04564
+Q923W1,Trimethylguanosine synthase,PF09445
+Q62925,Mitogen-activated protein kinase kinase kinase 1,PF21040
+Q62925,Mitogen-activated protein kinase kinase kinase 1,PF00069
+Q62925,Mitogen-activated protein kinase kinase kinase 1,PF04434
+P16260,Solute carrier family 25 member 16,PF00153
+Q96F63,Coiled-coil domain-containing protein 97,PF09747
+Q4JQX1,mRNA export factor ICP27 homolog,PF05459
+B0K030,DnaJ,PF00226
+B0K030,DnaJ,PF01556
+Q9NWT6,Hypoxia-inducible factor 1-alpha inhibitor,PF13621
+Q8IUH4,Palmitoyltransferase ZDHHC13,PF12796
+Q8IUH4,Palmitoyltransferase ZDHHC13,PF01529
+Q8IVT5,Kinase suppressor of Ras 1,PF07714
+Q8IVT5,Kinase suppressor of Ras 1,PF20406
+Q8IYB8,"ATP-dependent RNA helicase SUPV3L1, mitochondrial",PF22527
+Q8IYB8,"ATP-dependent RNA helicase SUPV3L1, mitochondrial",PF00271
+Q8IYB8,"ATP-dependent RNA helicase SUPV3L1, mitochondrial",PF12513
+Q8IYB8,"ATP-dependent RNA helicase SUPV3L1, mitochondrial",PF18147
+Q8IYB8,"ATP-dependent RNA helicase SUPV3L1, mitochondrial",PF18114
+Q92802,NEDD4-binding protein 2-like 2,PF13671
+Q96DF8,Splicing factor ESS-2 homolog,PF09751
+P25391,Laminin subunit alpha-1,PF00053
+P25391,Laminin subunit alpha-1,PF24973
+P25391,Laminin subunit alpha-1,PF00052
+P25391,Laminin subunit alpha-1,PF00054
+P25391,Laminin subunit alpha-1,PF06008
+P25391,Laminin subunit alpha-1,PF06009
+P25391,Laminin subunit alpha-1,PF00055
+P46379,Large proline-rich protein BAG6,PF12057
+P46379,Large proline-rich protein BAG6,PF20960
+P46379,Large proline-rich protein BAG6,PF00240
+Q9NPF4,tRNA N6-adenosine threonylcarbamoyltransferase,PF00814
+P30519,Heme oxygenase 2,PF01126
+Q96KB5,Lymphokine-activated killer T-cell-originated protein kinase,PF00069
+Q13042,Cell division cycle protein 16 homolog,PF12895
+Q13042,Cell division cycle protein 16 homolog,PF13424
+Q06547,GA-binding protein subunit beta-1,PF12796
+Q8NB25,Protein FAM184A,PF15665
+Q71U36,Tubulin alpha-1A chain,PF00091
+Q71U36,Tubulin alpha-1A chain,PF03953
+P04637,Cellular tumor antigen p53,PF00870
+P04637,Cellular tumor antigen p53,PF08563
+P04637,Cellular tumor antigen p53,PF07710
+P04637,Cellular tumor antigen p53,PF18521
+Q6K0P9,Pyrin and HIN domain-containing protein 1,PF02760
+Q6K0P9,Pyrin and HIN domain-containing protein 1,PF02758
+Q8R1Q8,Cytoplasmic dynein 1 light intermediate chain 1,PF05783
+Q3UDE2,Tubulin--tyrosine ligase-like protein 12,PF03133
+Q4JQW3,Tegument protein UL46 homolog,PF03387
+P46734,Dual specificity mitogen-activated protein kinase kinase 3,PF00069
+Q9NRM7,Serine/threonine-protein kinase LATS2,PF00069
+Q9NRM7,Serine/threonine-protein kinase LATS2,PF00433
+Q13233,Mitogen-activated protein kinase kinase kinase 1,PF21040
+Q13233,Mitogen-activated protein kinase kinase kinase 1,PF00069
+Q13233,Mitogen-activated protein kinase kinase kinase 1,PF04434
+Q9NRW3,DNA dC->dU-editing enzyme APOBEC-3C,PF18782
+Q13885,Tubulin beta-2A chain,PF00091
+Q13885,Tubulin beta-2A chain,PF03953
+Q96I59,Asparaginyl-tRNA synthetase,PF00152
+Q96I59,Asparaginyl-tRNA synthetase,PF01336
+O60907,F-box-like/WD repeat-containing protein TBL1X,PF08513
+O60907,F-box-like/WD repeat-containing protein TBL1X,PF00400
+O75940,Survival of motor neuron-related-splicing factor 30,PF06003
+P22612,cAMP-dependent protein kinase catalytic subunit gamma,PF00069
+Q6P5Z2,Serine/threonine-protein kinase N3,PF02185
+Q6P5Z2,Serine/threonine-protein kinase N3,PF00069
+Q6P5Z2,Serine/threonine-protein kinase N3,PF00433
+Q8WUA4,General transcription factor 3C polypeptide 2,PF00400
+Q99963,Endophilin-A3,PF03114
+Q99963,Endophilin-A3,PF00018
+P42224,Signal transducer and activator of transcription 1-alpha/beta,PF00017
+P42224,Signal transducer and activator of transcription 1-alpha/beta,PF12162
+P42224,Signal transducer and activator of transcription 1-alpha/beta,PF01017
+P42224,Signal transducer and activator of transcription 1-alpha/beta,PF02864
+P42224,Signal transducer and activator of transcription 1-alpha/beta,PF02865
+P42224,Signal transducer and activator of transcription 1-alpha/beta,PF21354
+Q15054,DNA polymerase delta subunit 3,PF09507
+Q9UBP0,Spastin,PF00004
+Q9UBP0,Spastin,PF17862
+Q9UBP0,Spastin,PF09336
+Q9UG01,Intraflagellar transport protein 172 homolog,PF24762
+Q9UG01,Intraflagellar transport protein 172 homolog,PF23387
+Q9UG01,Intraflagellar transport protein 172 homolog,PF00400
+P11362,Fibroblast growth factor receptor 1,PF07679
+P11362,Fibroblast growth factor receptor 1,PF00047
+P11362,Fibroblast growth factor receptor 1,PF07714
+Q2TAZ0,Autophagy-related protein 2 homolog A,PF13329
+Q5U2P5,RCG58016,PF00168
+Q5U2P5,RCG58016,PF18696
+P04201,Proto-oncogene Mas,PF00001
+P54098,DNA polymerase subunit gamma-1,PF18136
+P84243,Histone H3.3,PF00125
+P10398,Serine/threonine-protein kinase A-Raf,PF00130
+P10398,Serine/threonine-protein kinase A-Raf,PF07714
+P10398,Serine/threonine-protein kinase A-Raf,PF02196
+Q14145,Kelch-like ECH-associated protein 1,PF07707
+Q14145,Kelch-like ECH-associated protein 1,PF00651
+Q14145,Kelch-like ECH-associated protein 1,PF01344
+Q14145,Kelch-like ECH-associated protein 1,PF24681
+Q8IVT2,Mitotic interactor and substrate of PLK1,PF15304
+Q9P2S5,WD repeat-containing protein WRAP73,PF00400
+P83105,Serine protease HTRA4,PF00219
+P83105,Serine protease HTRA4,PF07648
+P83105,Serine protease HTRA4,PF13180
+P83105,Serine protease HTRA4,PF13365
+Q9H1I8,Activating signal cointegrator 1 complex subunit 2,PF02845
+P05981,Serine protease hepsin,PF09272
+P05981,Serine protease hepsin,PF00089
+P61586,Transforming protein RhoA,PF00071
+Q13490,Baculoviral IAP repeat-containing protein 2,PF00653
+Q13490,Baculoviral IAP repeat-containing protein 2,PF00619
+Q13490,Baculoviral IAP repeat-containing protein 2,PF21290
+Q13490,Baculoviral IAP repeat-containing protein 2,PF13920
+Q6JEL2,Kelch-like protein 10,PF07707
+Q6JEL2,Kelch-like protein 10,PF00651
+Q6JEL2,Kelch-like protein 10,PF01344
+Q9Y4C2,TRPM8 channel-associated factor 1,PF17291
+Q9Y4C2,TRPM8 channel-associated factor 1,PF13402
+O75365,Protein tyrosine phosphatase type IVA 3,PF22785
+Q12816,Trophinin,PF01454
+O88808,Tubby protein homolog,PF01167
+O88808,Tubby protein homolog,PF16322
+Q9Z2X1,Heterogeneous nuclear ribonucleoprotein F,PF00076
+Q9Z2X1,Heterogeneous nuclear ribonucleoprotein F,PF08080
+Q8JPQ9,Non-structural protein NS-S,PF01104
+P21860,Receptor tyrosine-protein kinase erbB-3,PF00757
+P21860,Receptor tyrosine-protein kinase erbB-3,PF14843
+P21860,Receptor tyrosine-protein kinase erbB-3,PF07714
+P21860,Receptor tyrosine-protein kinase erbB-3,PF01030
+Q03403,Trefoil factor 2,PF00088
+Q99759,Mitogen-activated protein kinase kinase kinase 3,PF00564
+Q99759,Mitogen-activated protein kinase kinase kinase 3,PF00069
+Q9H4B7,Tubulin beta-1 chain,PF00091
+Q9H4B7,Tubulin beta-1 chain,PF03953
+Q9UKK6,NTF2-related export protein 1,PF02136
+Q8NDX2,Vesicular glutamate transporter 3,PF07690
+Q9H9B4,Sideroflexin-1,PF03820
+O14829,Serine/threonine-protein phosphatase with EF-hands 1,PF13499
+O14829,Serine/threonine-protein phosphatase with EF-hands 1,PF00612
+O14829,Serine/threonine-protein phosphatase with EF-hands 1,PF00149
+O14829,Serine/threonine-protein phosphatase with EF-hands 1,PF08321
+P68871,Hemoglobin subunit beta,PF00042
+Q7KZF4,Staphylococcal nuclease domain-containing protein 1,PF00565
+Q7KZF4,Staphylococcal nuclease domain-containing protein 1,PF00567
+Q8IV20,Purine nucleoside phosphorylase LACC1,PF02578
+Q9BUR4,Telomerase Cajal body protein 1,PF00400
+Q9NR20,Dual specificity tyrosine-phosphorylation-regulated kinase 4,PF00069
+Q9Y2H9,Microtubule-associated serine/threonine-protein kinase 1,PF08926
+Q9Y2H9,Microtubule-associated serine/threonine-protein kinase 1,PF17820
+Q9Y2H9,Microtubule-associated serine/threonine-protein kinase 1,PF00069
+Q9BXB4,Oxysterol-binding protein-related protein 11,PF01237
+Q9BXB4,Oxysterol-binding protein-related protein 11,PF00169
+Q9UI38,Probable threonine protease PRSS50,PF00089
+P50851,Lipopolysaccharide-responsive and beige-like anchor protein,PF02138
+P50851,Lipopolysaccharide-responsive and beige-like anchor protein,PF06469
+P50851,Lipopolysaccharide-responsive and beige-like anchor protein,PF15787
+P50851,Lipopolysaccharide-responsive and beige-like anchor protein,PF13385
+P50851,Lipopolysaccharide-responsive and beige-like anchor protein,PF20426
+P50851,Lipopolysaccharide-responsive and beige-like anchor protein,PF20425
+P50851,Lipopolysaccharide-responsive and beige-like anchor protein,PF14844
+Q9BY84,Dual specificity protein phosphatase 16,PF00782
+Q9BY84,Dual specificity protein phosphatase 16,PF00581
+Q969R5,Lethal,PF02820
+Q969R5,Lethal,PF21319
+Q9Y4P8,WD repeat domain phosphoinositide-interacting protein 2,PF21032
+O60884,DnaJ homolog subfamily A member 2,PF00226
+O60884,DnaJ homolog subfamily A member 2,PF01556
+O60884,DnaJ homolog subfamily A member 2,PF00684
+Q16572,Vesicular acetylcholine transporter,PF07690
+Q8IXH7,Negative elongation factor C/D,PF04858
+Q96SB3,Neurabin-2,PF00595
+Q96SB3,Neurabin-2,PF17817
+Q6P1L5,Protein FAM117B,PF15388
+Q9BV86,N-terminal Xaa-Pro-Lys N-methyltransferase 1,PF05891
+Q06124,Tyrosine-protein phosphatase non-receptor type 11,PF00017
+Q06124,Tyrosine-protein phosphatase non-receptor type 11,PF00102
+O00170,AH receptor-interacting protein,PF23322
+O95922,Polyglutamylase complex subunit TTLL1,PF03133
+Q04917,14-3-3 protein eta,PF00244
+Q8IUH5,Palmitoyltransferase ZDHHC17,PF12796
+Q8IUH5,Palmitoyltransferase ZDHHC17,PF01529
+Q9ULA0,Aspartyl aminopeptidase,PF02127
+Q9Y2U8,Inner nuclear membrane protein Man1,PF03020
+Q9Y2U8,Inner nuclear membrane protein Man1,PF09402
+Q02763,Angiopoietin-1 receptor,PF00041
+Q02763,Angiopoietin-1 receptor,PF10430
+Q02763,Angiopoietin-1 receptor,PF07714
+P00533,Epidermal growth factor receptor,PF00757
+P00533,Epidermal growth factor receptor,PF14843
+P00533,Epidermal growth factor receptor,PF07714
+P00533,Epidermal growth factor receptor,PF01030
+P00533,Epidermal growth factor receptor,PF21314
+Q9HAD4,WD repeat-containing protein 41,PF25178
+Q8N302,Angiogenic factor with G patch and FHA domains 1,PF00498
+Q8N302,Angiogenic factor with G patch and FHA domains 1,PF01585
+Q8N302,Angiogenic factor with G patch and FHA domains 1,PF17780
+C5E527,Polymerase basic protein 2,PF20947
+C5E527,Polymerase basic protein 2,PF20948
+C5E527,Polymerase basic protein 2,PF20949
+C5E527,Polymerase basic protein 2,PF20950
+C5E527,Polymerase basic protein 2,PF00604
+C5E527,Polymerase basic protein 2,PF20951
+C5E527,Polymerase basic protein 2,PF20952
+I6T1Z2,Non-structural protein 1,PF00600
+A0A0G2K0B0,Carnitine deficiency-associated gene expressed in ventricle 3,PF15359
+Q15459,Splicing factor 3A subunit 1,PF12230
+Q15459,Splicing factor 3A subunit 1,PF01805
+Q15459,Splicing factor 3A subunit 1,PF00240
+O95202,Mitochondrial proton/calcium exchanger protein,PF07766
+Q15796,Mothers against decapentaplegic homolog 2,PF03165
+Q15796,Mothers against decapentaplegic homolog 2,PF03166
+Q8NBB4,Zinc finger and SCAN domain-containing protein 1,PF02023
+Q8NBB4,Zinc finger and SCAN domain-containing protein 1,PF00096
+Q92834,X-linked retinitis pigmentosa GTPase regulator,PF25390
+Q96CS3,FAS-associated factor 2,PF21021
+Q96CS3,FAS-associated factor 2,PF22566
+Q96CS3,FAS-associated factor 2,PF00789
+P05129,Protein kinase C gamma type,PF00130
+P05129,Protein kinase C gamma type,PF00168
+P05129,Protein kinase C gamma type,PF00069
+P05129,Protein kinase C gamma type,PF00433
+P38432,Coilin,PF15862
+P38432,Coilin,PF23086
+Q13618,Cullin-3,PF00888
+Q13618,Cullin-3,PF10557
+O14972,Vacuolar protein sorting-associated protein 26C,PF03643
+O60469,Cell adhesion molecule DSCAM,PF00041
+O60469,Cell adhesion molecule DSCAM,PF25059
+O60469,Cell adhesion molecule DSCAM,PF07679
+O60469,Cell adhesion molecule DSCAM,PF13927
+Q96GX1,Tectonic-2,PF07773
+Q6NSI4,RPA-related protein RADX,PF17659
+P43897,"Elongation factor Ts, mitochondrial",PF25025
+P43897,"Elongation factor Ts, mitochondrial",PF00889
+O43930,Putative serine/threonine-protein kinase PRKY,PF00069
+Q8TAV5,Uncharacterized protein KCNJ5-AS1,PF17731
+Q8N5U1,Membrane-spanning 4-domains subfamily A member 15,PF04103
+G3V6S0,Spectrin beta chain,PF00307
+G3V6S0,Spectrin beta chain,PF15410
+G3V6S0,Spectrin beta chain,PF00435
+E9PUA5,Kinesin-like protein,PF00225
+C9J2Y9,DNA-directed RNA polymerase subunit beta,PF04563
+C9J2Y9,DNA-directed RNA polymerase subunit beta,PF04561
+C9J2Y9,DNA-directed RNA polymerase subunit beta,PF04565
+C9J2Y9,DNA-directed RNA polymerase subunit beta,PF04566
+C9J2Y9,DNA-directed RNA polymerase subunit beta,PF04567
+C9J2Y9,DNA-directed RNA polymerase subunit beta,PF00562
+C9J2Y9,DNA-directed RNA polymerase subunit beta,PF04560
+Q15269,Periodic tryptophan protein 2 homolog,PF04003
+Q15269,Periodic tryptophan protein 2 homolog,PF00400
+Q8WYR4,Radial spoke head 1 homolog,PF02493
+Q9P2B2,Prostaglandin F2 receptor negative regulator,PF07686
+Q9Y6H6,Potassium voltage-gated channel subfamily E member 3,PF02060
+Q12906,Interleukin enhancer-binding factor 3,PF00035
+Q12906,Interleukin enhancer-binding factor 3,PF20965
+Q12906,Interleukin enhancer-binding factor 3,PF07528
+Q99592,Zinc finger and BTB domain-containing protein 18,PF00651
+Q99592,Zinc finger and BTB domain-containing protein 18,PF00096
+Q99592,Zinc finger and BTB domain-containing protein 18,PF13894
+Q9H0R8,Gamma-aminobutyric acid receptor-associated protein-like 1,PF02991
+Q9H1K0,Rabenosyn-5,PF01363
+Q9H1K0,Rabenosyn-5,PF16601
+Q9H1K0,Rabenosyn-5,PF11464
+Q9UNY4,Transcription termination factor 2,PF00271
+Q9UNY4,Transcription termination factor 2,PF00176
+Q9UNY4,Transcription termination factor 2,PF06839
+O00445,Synaptotagmin-5,PF00168
+P07949,Proto-oncogene tyrosine-protein kinase receptor Ret,PF00028
+P07949,Proto-oncogene tyrosine-protein kinase receptor Ret,PF07714
+P07949,Proto-oncogene tyrosine-protein kinase receptor Ret,PF17756
+P07949,Proto-oncogene tyrosine-protein kinase receptor Ret,PF17812
+P07949,Proto-oncogene tyrosine-protein kinase receptor Ret,PF17813
+P07949,Proto-oncogene tyrosine-protein kinase receptor Ret,PF22540
+Q6UWR7,Glycerophosphocholine cholinephosphodiesterase ENPP6,PF01663
+Q8WV16,DDB1- and CUL4-associated factor 4,PF23761
+Q96CW5,Gamma-tubulin complex component 3,PF04130
+Q96CW5,Gamma-tubulin complex component 3,PF17681
+Q14677,Clathrin interactor 1,PF01417
+Q7Z7F0,KH homology domain-containing protein 4,PF22675
+Q7Z7F0,KH homology domain-containing protein 4,PF23469
+Q8NC96,Adaptin ear-binding coat-associated protein 1,PF07933
+Q99614,Tetratricopeptide repeat protein 1,PF00515
+Q99614,Tetratricopeptide repeat protein 1,PF13181
+Q5JPI3,Uncharacterized protein C3orf38,PF15008
+Q5EP37,RNA-directed RNA polymerase catalytic subunit,PF00602
+O75807,Protein phosphatase 1 regulatory subunit 15A,PF10488
+Q15021,Condensin complex subunit 1,PF12717
+Q15021,Condensin complex subunit 1,PF12922
+Q9NWT8,Small ribosomal subunit protein mS38,PF08213
+Q9NXR8,Inhibitor of growth protein 3,PF12998
+O14775,Guanine nucleotide-binding protein subunit beta-5,PF25391
+Q96GF1,E3 ubiquitin-protein ligase RNF185,PF00097
+Q9UL15,BAG family molecular chaperone regulator 5,PF02179
+P63027,Vesicle-associated membrane protein 2,PF00957
+Q92769,Histone deacetylase 2,PF00850
+P04049,RAF proto-oncogene serine/threonine-protein kinase,PF00130
+P04049,RAF proto-oncogene serine/threonine-protein kinase,PF00069
+P04049,RAF proto-oncogene serine/threonine-protein kinase,PF02196
+P53680,AP-2 complex subunit sigma,PF01217
+Q13033,Striatin-3,PF08232
+Q13033,Striatin-3,PF00400
+Q8IWB6,Inactive serine/threonine-protein kinase TEX14,PF12796
+Q8IWB6,Inactive serine/threonine-protein kinase TEX14,PF07714
+Q99942,E3 ubiquitin-protein ligase RNF5,PF13920
+O15547,P2X purinoceptor 6,PF00864
+Q9NVW2,E3 ubiquitin-protein ligase RLIM,PF13639
+P16278,Beta-galactosidase,PF21317
+P16278,Beta-galactosidase,PF21467
+P16278,Beta-galactosidase,PF01301
+P21675,Transcription initiation factor TFIID subunit 1,PF00439
+P21675,Transcription initiation factor TFIID subunit 1,PF12157
+P21675,Transcription initiation factor TFIID subunit 1,PF09247
+P21675,Transcription initiation factor TFIID subunit 1,PF15288
+O55187,E3 SUMO-protein ligase CBX4,PF17218
+O55187,E3 SUMO-protein ligase CBX4,PF00385
+Q5M823,NudC domain-containing protein 2,PF04969
+Q3LXA3,Triokinase/FMN cyclase,PF02733
+Q3LXA3,Triokinase/FMN cyclase,PF02734
+Q9Y242,Transcription factor 19,PF00498
+Q9Y242,Transcription factor 19,PF00628
+Q8WV74,Mitochondrial coenzyme A diphosphatase NUDT8,PF00293
+Q99570,Phosphoinositide 3-kinase regulatory subunit 4,PF00069
+Q99570,Phosphoinositide 3-kinase regulatory subunit 4,PF22956
+Q99570,Phosphoinositide 3-kinase regulatory subunit 4,PF00400
+Q96S52,GPI-anchor transamidase component PIGS,PF10510
+P24158,Myeloblastin,PF00089
+Q9P0V3,SH3 domain-binding protein 4,PF24094
+Q9P0V3,SH3 domain-binding protein 4,PF00018
+Q9P0V3,SH3 domain-binding protein 4,PF07653
+Q9P0V3,SH3 domain-binding protein 4,PF23637
+Q9P0V3,SH3 domain-binding protein 4,PF23640
+Q9P0V3,SH3 domain-binding protein 4,PF00791
+Q9BVQ7,ATPase family gene 2 protein homolog B,PF00004
+Q9BVQ7,ATPase family gene 2 protein homolog B,PF17862
+Q5QP82,DDB1- and CUL4-associated factor 10,PF00400
+P07203,Glutathione peroxidase 1,PF00255
+O75155,Cullin-associated NEDD8-dissociated protein 2,PF13513
+O75155,Cullin-associated NEDD8-dissociated protein 2,PF08623
+Q9Y2D8,Afadin- and alpha-actinin-binding protein,PF11559
+Q00987,E3 ubiquitin-protein ligase Mdm2,PF02201
+Q00987,E3 ubiquitin-protein ligase Mdm2,PF13920
+Q00987,E3 ubiquitin-protein ligase Mdm2,PF00641
+O95819,Mitogen-activated protein kinase kinase kinase kinase 4,PF00780
+O95819,Mitogen-activated protein kinase kinase kinase kinase 4,PF00069
+P01241,Somatotropin,PF00103
+P60881,Synaptosomal-associated protein 25,PF00835
+Q63803,Guanine nucleotide-binding protein G,PF00503
+Q7Z6Z6,Patatin-like phospholipase domain-containing protein 5,PF01734
+Q19QW5,ORF6 protein,PF12133
+Q6UWP7,Lysocardiolipin acyltransferase 1,PF16076
+Q6UWP7,Lysocardiolipin acyltransferase 1,PF01553
+Q9Y574,Ankyrin repeat and SOCS box protein 4,PF00023
+Q9Y574,Ankyrin repeat and SOCS box protein 4,PF12796
+Q9Y574,Ankyrin repeat and SOCS box protein 4,PF13637
+Q9Y574,Ankyrin repeat and SOCS box protein 4,PF07525
+P41743,Protein kinase C iota type,PF00130
+P41743,Protein kinase C iota type,PF00564
+P41743,Protein kinase C iota type,PF00069
+P41743,Protein kinase C iota type,PF00433
+P55145,Mesencephalic astrocyte-derived neurotrophic factor,PF10208
+P55145,Mesencephalic astrocyte-derived neurotrophic factor,PF20145
+P23763,Vesicle-associated membrane protein 1,PF00957
+Q15642,Cdc42-interacting protein 4,PF00611
+Q15642,Cdc42-interacting protein 4,PF00018
+Q16204,Coiled-coil domain-containing protein 6,PF09755
+Q96EQ0,Small glutamine-rich tetratricopeptide repeat-containing protein beta,PF16546
+Q96EQ0,Small glutamine-rich tetratricopeptide repeat-containing protein beta,PF00515
+Q96EQ0,Small glutamine-rich tetratricopeptide repeat-containing protein beta,PF13414
+Q9Y2R0,"Cytochrome c oxidase assembly factor 3 homolog, mitochondrial",PF09813
+P11021,Endoplasmic reticulum chaperone BiP,PF00012
+P18146,Early growth response protein 1,PF11914
+P18146,Early growth response protein 1,PF11928
+P18146,Early growth response protein 1,PF00096
+Q92783,Signal transducing adapter molecule 1,PF00018
+Q92783,Signal transducing adapter molecule 1,PF02809
+Q92783,Signal transducing adapter molecule 1,PF00790
+Q9UHD4,Lipid transferase CIDEB,PF02017
+Q9HBG6,Intraflagellar transport protein 122 homolog,PF23381
+Q9HBG6,Intraflagellar transport protein 122 homolog,PF23377
+Q9HBG6,Intraflagellar transport protein 122 homolog,PF25295
+Q9HBG6,Intraflagellar transport protein 122 homolog,PF25144
+Q9HBG6,Intraflagellar transport protein 122 homolog,PF25143
+Q6DGG9,Guided entry of tail-anchored proteins factor CAMLG,PF14963
+Q96L11,Sperm-egg fusion protein LLCFC1,PF15838
+Q69YN2,CWF19-like protein 1,PF04677
+Q69YN2,CWF19-like protein 1,PF04676
+Q96BE0,Heat shock cognate 71 kDa protein,PF00012
+E9PS44,Interferon induced transmembrane protein 3,PF04505
+A0A0G2K6T9,Protocadherin 1,PF00028
+A0A0G2K6T9,Protocadherin 1,PF08266
+A0A0G2K6T9,Protocadherin 1,PF08374
+Q01974,Tyrosine-protein kinase transmembrane receptor ROR2,PF01392
+Q01974,Tyrosine-protein kinase transmembrane receptor ROR2,PF07679
+Q01974,Tyrosine-protein kinase transmembrane receptor ROR2,PF00051
+Q01974,Tyrosine-protein kinase transmembrane receptor ROR2,PF07714
+Q5DID0,Uromodulin-like 1,PF07645
+Q5DID0,Uromodulin-like 1,PF01390
+Q5DID0,Uromodulin-like 1,PF00095
+Q5DID0,Uromodulin-like 1,PF00100
+Q5DID0,Uromodulin-like 1,PF23344
+Q02750,Dual specificity mitogen-activated protein kinase kinase 1,PF00069
+Q9Y6X3,MAU2 chromatid cohesion factor homolog,PF10345
+Q96D53,"Atypical kinase COQ8B, mitochondrial",PF03109
+Q96EF0,"Phosphatidylinositol-3,5-bisphosphate 3-phosphatase MTMR8",PF06602
+Q96EF0,"Phosphatidylinositol-3,5-bisphosphate 3-phosphatase MTMR8",PF21098
+O75164,Lysine-specific demethylase 4A,PF02373
+O75164,Lysine-specific demethylase 4A,PF02375
+O75164,Lysine-specific demethylase 4A,PF13831
+O75164,Lysine-specific demethylase 4A,PF18104
+O75164,Lysine-specific demethylase 4A,PF13832
+Q8N8S7,Protein enabled homolog,PF08776
+Q8N8S7,Protein enabled homolog,PF00568
+Q9P289,Serine/threonine-protein kinase 26,PF20929
+Q9P289,Serine/threonine-protein kinase 26,PF00069
+O95407,Tumor necrosis factor receptor superfamily member 6B,PF00020
+P15259,Phosphoglycerate mutase 2,PF00300
+Q9NZC9,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A-like protein 1,PF07443
+Q9NZC9,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A-like protein 1,PF00271
+Q9NZC9,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A-like protein 1,PF00176
+Q04725,Transducin-like enhancer protein 2,PF03920
+Q04725,Transducin-like enhancer protein 2,PF00400
+Q6ZMZ0,E3 ubiquitin-protein ligase RNF19B,PF01485
+Q6ZMZ0,E3 ubiquitin-protein ligase RNF19B,PF22191
+O15013,Rho guanine nucleotide exchange factor 10,PF19057
+O15013,Rho guanine nucleotide exchange factor 10,PF00621
+O15013,Rho guanine nucleotide exchange factor 10,PF19056
+Q9Y6I4,Ubiquitin carboxyl-terminal hydrolase 3,PF00443
+Q9Y6I4,Ubiquitin carboxyl-terminal hydrolase 3,PF02148
+Q9H9T3,Elongator complex protein 3,PF23613
+Q9H9T3,Elongator complex protein 3,PF04055
+Q9H9T3,Elongator complex protein 3,PF16199
+Q9H074,Polyadenylate-binding protein-interacting protein 1,PF02854
+Q9H074,Polyadenylate-binding protein-interacting protein 1,PF07145
+Q96MH7,Uncharacterized protein C5orf34,PF15025
+Q96MH7,Uncharacterized protein C5orf34,PF22833
+Q96MH7,Uncharacterized protein C5orf34,PF15016
+Q96MH7,Uncharacterized protein C5orf34,PF22834
+A0A0G2JX56,DnaJ homolog subfamily C member 5,PF00226
+P09936,Ubiquitin carboxyl-terminal hydrolase isozyme L1,PF01088
+P41091,Eukaryotic translation initiation factor 2 subunit 3,PF09173
+P41091,Eukaryotic translation initiation factor 2 subunit 3,PF00009
+P41091,Eukaryotic translation initiation factor 2 subunit 3,PF03144
+P54198,Protein HIRA,PF24105
+P54198,Protein HIRA,PF07569
+Q86Y82,Syntaxin-12,PF05739
+Q86Y82,Syntaxin-12,PF14523
+Q9P1U0,DNA-directed RNA polymerase I subunit RPA12,PF01096
+P05783,"Keratin, type I cytoskeletal 18",PF00038
+Q8NDL9,Cytosolic carboxypeptidase-like protein 5,PF18027
+Q8NDL9,Cytosolic carboxypeptidase-like protein 5,PF00246
+O15126,Secretory carrier-associated membrane protein 1,PF04144
+P06241,Tyrosine-protein kinase Fyn,PF07714
+P06241,Tyrosine-protein kinase Fyn,PF00017
+P06241,Tyrosine-protein kinase Fyn,PF00018
+P68366,Tubulin alpha-4A chain,PF00091
+P68366,Tubulin alpha-4A chain,PF03953
+Q14444,Caprin-1,PF12287
+Q14444,Caprin-1,PF18293
+Q2TAA5,GDP-Man:Man,PF15924
+Q2TAA5,GDP-Man:Man,PF00534
+P57078,Receptor-interacting serine/threonine-protein kinase 4,PF12796
+P57078,Receptor-interacting serine/threonine-protein kinase 4,PF13637
+P57078,Receptor-interacting serine/threonine-protein kinase 4,PF00069
+Q96HA8,Protein N-terminal glutamine amidohydrolase,PF09764
+Q9NXH9,tRNA,PF02005
+Q9NXH9,tRNA,PF00642
+Q13309,S-phase kinase-associated protein 2,PF12937
+Q13620,Cullin-4B,PF00888
+Q13620,Cullin-4B,PF10557
+Q99523,Sortilin,PF15902
+Q99523,Sortilin,PF15901
+Q7TSJ6,Serine/threonine-protein kinase LATS2,PF00069
+Q7TSJ6,Serine/threonine-protein kinase LATS2,PF00433
+Q6GMN2,BAR/IMD domain-containing adapter protein 2,PF08397
+Q6GMN2,BAR/IMD domain-containing adapter protein 2,PF07653
+Q13509,Tubulin beta-3 chain,PF00091
+Q13509,Tubulin beta-3 chain,PF03953
+Q99576,TSC22 domain family protein 3,PF01166
+Q9HCK5,Protein argonaute-4,PF08699
+Q9HCK5,Protein argonaute-4,PF16488
+Q9HCK5,Protein argonaute-4,PF16487
+Q9HCK5,Protein argonaute-4,PF16486
+Q9HCK5,Protein argonaute-4,PF02170
+Q9HCK5,Protein argonaute-4,PF02171
+O14880,"Glutathione S-transferase 3, mitochondrial",PF01124
+P04183,"Thymidine kinase, cytosolic",PF00265
+P22102,Trifunctional purine biosynthetic protein adenosine-3 [Includes: Phosphoribosylamine--glycine ligase,PF00586
+P22102,Trifunctional purine biosynthetic protein adenosine-3 [Includes: Phosphoribosylamine--glycine ligase,PF02769
+P22102,Trifunctional purine biosynthetic protein adenosine-3 [Includes: Phosphoribosylamine--glycine ligase,PF00551
+P22102,Trifunctional purine biosynthetic protein adenosine-3 [Includes: Phosphoribosylamine--glycine ligase,PF01071
+P22102,Trifunctional purine biosynthetic protein adenosine-3 [Includes: Phosphoribosylamine--glycine ligase,PF02843
+P22102,Trifunctional purine biosynthetic protein adenosine-3 [Includes: Phosphoribosylamine--glycine ligase,PF02844
+O00470,Homeobox protein Meis1,PF05920
+O00470,Homeobox protein Meis1,PF16493
+Q9Y4K3,TNF receptor-associated factor 6,PF21355
+Q9Y4K3,TNF receptor-associated factor 6,PF18048
+Q9Y4K3,TNF receptor-associated factor 6,PF13923
+Q9Y4K3,TNF receptor-associated factor 6,PF02176
+O75116,Rho-associated protein kinase 2,PF25346
+O75116,Rho-associated protein kinase 2,PF00069
+O75116,Rho-associated protein kinase 2,PF08912
+Q9NWU1,"3-oxoacyl-[acyl-carrier-protein] synthase, mitochondrial",PF00109
+Q9NWU1,"3-oxoacyl-[acyl-carrier-protein] synthase, mitochondrial",PF02801
+P09622,"Dihydrolipoyl dehydrogenase, mitochondrial",PF07992
+P09622,"Dihydrolipoyl dehydrogenase, mitochondrial",PF02852
+Q13163,Dual specificity mitogen-activated protein kinase kinase 5,PF00564
+Q13163,Dual specificity mitogen-activated protein kinase kinase 5,PF00069
+Q9HC78,Zinc finger and BTB domain-containing protein 20,PF00651
+Q9HC78,Zinc finger and BTB domain-containing protein 20,PF00096
+K9N7C7,Replicase polyprotein 1ab,PF13087
+K9N7C7,Replicase polyprotein 1ab,PF13604
+K9N7C7,Replicase polyprotein 1ab,PF16251
+K9N7C7,Replicase polyprotein 1ab,PF11501
+K9N7C7,Replicase polyprotein 1ab,PF11633
+K9N7C7,Replicase polyprotein 1ab,PF06471
+K9N7C7,Replicase polyprotein 1ab,PF06460
+K9N7C7,Replicase polyprotein 1ab,PF09401
+K9N7C7,Replicase polyprotein 1ab,PF20631
+K9N7C7,Replicase polyprotein 1ab,PF20633
+K9N7C7,Replicase polyprotein 1ab,PF20632
+K9N7C7,Replicase polyprotein 1ab,PF19215
+K9N7C7,Replicase polyprotein 1ab,PF19216
+K9N7C7,Replicase polyprotein 1ab,PF19219
+K9N7C7,Replicase polyprotein 1ab,PF19212
+K9N7C7,Replicase polyprotein 1ab,PF19211
+K9N7C7,Replicase polyprotein 1ab,PF19218
+K9N7C7,Replicase polyprotein 1ab,PF16348
+K9N7C7,Replicase polyprotein 1ab,PF19217
+K9N7C7,Replicase polyprotein 1ab,PF19213
+K9N7C7,Replicase polyprotein 1ab,PF08716
+K9N7C7,Replicase polyprotein 1ab,PF08717
+K9N7C7,Replicase polyprotein 1ab,PF08710
+K9N7C7,Replicase polyprotein 1ab,PF08715
+K9N7C7,Replicase polyprotein 1ab,PF06478
+K9N7C7,Replicase polyprotein 1ab,PF01661
+K9N7C7,Replicase polyprotein 1ab,PF05409
+K9N7C7,Replicase polyprotein 1ab,PF00680
+Q8N0Z8,tRNA pseudouridine synthase-like 1,PF01416
+Q9BWT6,Meiotic nuclear division protein 1 homolog,PF18517
+Q9BWT6,Meiotic nuclear division protein 1 homolog,PF03962
+Q2M329,Cilia- and flagella-associated protein 184,PF13870
+Q5XUX1,F-box/WD repeat-containing protein 9,PF12937
+Q5XUX1,F-box/WD repeat-containing protein 9,PF00400
+E9PB39,Rho guanine nucleotide exchange factor 10,PF00621
+P07197,Neurofilament medium polypeptide,PF00038
+P07197,Neurofilament medium polypeptide,PF04732
+P13164,Interferon-induced transmembrane protein 1,PF04505
+Q9H0C2,ADP/ATP translocase 4,PF00153
+Q14CZ7,"FAST kinase domain-containing protein 3, mitochondrial",PF06743
+Q14CZ7,"FAST kinase domain-containing protein 3, mitochondrial",PF08368
+Q14CZ7,"FAST kinase domain-containing protein 3, mitochondrial",PF08373
+Q8NDC4,MORN repeat-containing protein 4,PF02493
+Q8TAM1,BBSome complex assembly protein BBS10,PF00118
+O00232,26S proteasome non-ATPase regulatory subunit 12,PF01399
+O00232,26S proteasome non-ATPase regulatory subunit 12,PF22241
+O00232,26S proteasome non-ATPase regulatory subunit 12,PF18098
+P17066,Heat shock 70 kDa protein 6,PF00012
+Q8IZ69,tRNA,PF05958
+P42336,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",PF00454
+P42336,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",PF00792
+P42336,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",PF02192
+P42336,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",PF00794
+P42336,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",PF00613
+Q9Y281,Cofilin-2,PF00241
+O95672,Endothelin-converting enzyme-like 1,PF01431
+O95672,Endothelin-converting enzyme-like 1,PF05649
+P08247,Synaptophysin,PF01284
+Q6IA86,Elongator complex protein 2,PF00400
+Q8WUA7,TBC1 domain family member 22A,PF00566
+Q5VST9,Obscurin,PF00041
+Q5VST9,Obscurin,PF07679
+Q5VST9,Obscurin,PF00612
+Q5VST9,Obscurin,PF00069
+Q5VST9,Obscurin,PF00621
+Q5VST9,Obscurin,PF22697
+Q8WXR4,Myosin-IIIb,PF00612
+Q8WXR4,Myosin-IIIb,PF00063
+Q8WXR4,Myosin-IIIb,PF00069
+Q5U211,Sorting nexin-3,PF00787
+Q8N239,Kelch-like protein 34,PF07707
+Q8N239,Kelch-like protein 34,PF00651
+Q8N239,Kelch-like protein 34,PF24681
+P09668,Pro-cathepsin H [Cleaved into: Cathepsin H mini chain; Cathepsin H,PF08246
+P09668,Pro-cathepsin H [Cleaved into: Cathepsin H mini chain; Cathepsin H,PF00112
+P23193,Transcription elongation factor A protein 1,PF08711
+P23193,Transcription elongation factor A protein 1,PF07500
+P23193,Transcription elongation factor A protein 1,PF01096
+O95425,Supervillin,PF00626
+O95425,Supervillin,PF02209
+O14526,F-BAR domain only protein 1,PF22699
+O14526,F-BAR domain only protein 1,PF10291
+Q9BVS5,tRNA,PF08704
+Q9BVS5,tRNA,PF21985
+Q15628,Tumor necrosis factor receptor type 1-associated DEATH domain protein,PF00531
+Q15628,Tumor necrosis factor receptor type 1-associated DEATH domain protein,PF09034
+O95817,BAG family molecular chaperone regulator 3,PF02179
+O95817,BAG family molecular chaperone regulator 3,PF00397
+P31930,"Cytochrome b-c1 complex subunit 1, mitochondrial",PF00675
+P31930,"Cytochrome b-c1 complex subunit 1, mitochondrial",PF05193
+Q8TED1,Probable glutathione peroxidase 8,PF00255
+Q9NQZ2,Something about silencing protein 10,PF09368
+Q9NQZ2,Something about silencing protein 10,PF04000
+Q96SU4,Oxysterol-binding protein-related protein 9,PF01237
+Q96SU4,Oxysterol-binding protein-related protein 9,PF00169
+P02545,Prelamin-A/C [Cleaved into: Lamin-A/C,PF00038
+P02545,Prelamin-A/C [Cleaved into: Lamin-A/C,PF00932
+Q9BQ95,"Evolutionarily conserved signaling intermediate in Toll pathway, mitochondrial",PF14784
+Q9BQ95,"Evolutionarily conserved signaling intermediate in Toll pathway, mitochondrial",PF06239
+Q64542,Plasma membrane calcium-transporting ATPase 4,PF12424
+Q64542,Plasma membrane calcium-transporting ATPase 4,PF13246
+Q64542,Plasma membrane calcium-transporting ATPase 4,PF00689
+Q64542,Plasma membrane calcium-transporting ATPase 4,PF00690
+Q64542,Plasma membrane calcium-transporting ATPase 4,PF00122
+Q64542,Plasma membrane calcium-transporting ATPase 4,PF00702
+P61765,Syntaxin-binding protein 1,PF00995
+Q9BXK1,Krueppel-like factor 16,PF00096
+Q9NVQ4,Fas apoptotic inhibitory molecule 1,PF06905
+A4D1U4,DENN domain-containing protein 11,PF09804
+P08922,Proto-oncogene tyrosine-protein kinase ROS,PF00041
+P08922,Proto-oncogene tyrosine-protein kinase ROS,PF07714
+Q14738,Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit delta isoform,PF01603
+Q9NZJ0,Denticleless protein homolog,PF00400
+P78527,DNA-dependent protein kinase catalytic subunit,PF20500
+P78527,DNA-dependent protein kinase catalytic subunit,PF20502
+P78527,DNA-dependent protein kinase catalytic subunit,PF08163
+P78527,DNA-dependent protein kinase catalytic subunit,PF19704
+P78527,DNA-dependent protein kinase catalytic subunit,PF02259
+P78527,DNA-dependent protein kinase catalytic subunit,PF02260
+P78527,DNA-dependent protein kinase catalytic subunit,PF00454
+O43318,Mitogen-activated protein kinase kinase kinase 7,PF07714
+O76071,Probable cytosolic iron-sulfur protein assembly protein CIAO1,PF00400
+P22830,"Ferrochelatase, mitochondrial",PF00762
+P31327,"Carbamoyl-phosphate synthase [ammonia], mitochondrial",PF02786
+P31327,"Carbamoyl-phosphate synthase [ammonia], mitochondrial",PF02787
+P31327,"Carbamoyl-phosphate synthase [ammonia], mitochondrial",PF00988
+P31327,"Carbamoyl-phosphate synthase [ammonia], mitochondrial",PF00117
+P31327,"Carbamoyl-phosphate synthase [ammonia], mitochondrial",PF02142
+Q7LBC6,Lysine-specific demethylase 3B,PF22989
+Q7LBC6,Lysine-specific demethylase 3B,PF02373
+Q7LBC6,Lysine-specific demethylase 3B,PF22988
+Q7LBC6,Lysine-specific demethylase 3B,PF22987
+Q9UK96,F-box only protein 10,PF13229
+Q9UK96,F-box only protein 10,PF12937
+Q9UK96,F-box only protein 10,PF05048
+Q9GZZ1,N-alpha-acetyltransferase 50,PF00583
+Q9UGI9,5'-AMP-activated protein kinase subunit gamma-3,PF00571
+P50570,Dynamin-2,PF01031
+P50570,Dynamin-2,PF00350
+P50570,Dynamin-2,PF02212
+P50570,Dynamin-2,PF00169
+P22314,Ubiquitin-like modifier-activating enzyme 1,PF16191
+P22314,Ubiquitin-like modifier-activating enzyme 1,PF16190
+P22314,Ubiquitin-like modifier-activating enzyme 1,PF09358
+P22314,Ubiquitin-like modifier-activating enzyme 1,PF00899
+P22314,Ubiquitin-like modifier-activating enzyme 1,PF10585
+P97470,Serine/threonine-protein phosphatase 4 catalytic subunit,PF00149
+P0DTC8,ORF8 protein,PF12093
+Q9H8J5,MANSC domain-containing protein 1,PF07502
+Q9NVR0,Kelch-like protein 11,PF07707
+Q9NVR0,Kelch-like protein 11,PF00651
+Q9NVR0,Kelch-like protein 11,PF01344
+A8K7Q2,Heat shock protein family A,PF00012
+O95429,BAG family molecular chaperone regulator 4,PF02179
+Q9Y287,Integral membrane protein 2B,PF04089
+Q96JN8,Neuralized-like protein 4,PF07177
+O95166,Gamma-aminobutyric acid receptor-associated protein,PF02991
+P52179,Myomesin-1,PF00041
+P52179,Myomesin-1,PF07679
+Q00765,Receptor expression-enhancing protein 5,PF03134
+Q14376,UDP-glucose 4-epimerase,PF16363
+Q15233,Non-POU domain-containing octamer-binding protein,PF08075
+Q15233,Non-POU domain-containing octamer-binding protein,PF00076
+Q8TB24,Ras and Rab interactor 3,PF23268
+Q8TB24,Ras and Rab interactor 3,PF02204
+P49354,Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha,PF01239
+Q8NG27,E3 ubiquitin-protein ligase Praja-1,PF13639
+P41227,N-alpha-acetyltransferase 10,PF00583
+Q9Y6K9,NF-kappa-B essential modulator,PF16516
+Q9Y6K9,NF-kappa-B essential modulator,PF11577
+Q9Y6K9,NF-kappa-B essential modulator,PF18414
+P40938,Replication factor C subunit 3,PF13177
+P40938,Replication factor C subunit 3,PF21960
+P40938,Replication factor C subunit 3,PF22534
+Q08J23,RNA cytosine C,PF01189
+Q08J23,RNA cytosine C,PF25376
+Q08J23,RNA cytosine C,PF25378
+Q9Y251,Heparanase,PF03662
+P63018,Heat shock cognate 71 kDa protein,PF00012
+O70257,Syntaxin-7,PF05739
+O70257,Syntaxin-7,PF14523
+Q96K17,Transcription factor BTF3 homolog 4,PF01849
+B2CML4,single-stranded DNA cytosine deaminase,PF18782
+Q01968,Inositol polyphosphate 5-phosphatase OCRL,PF22669
+Q01968,Inositol polyphosphate 5-phosphatase OCRL,PF21310
+Q01968,Inositol polyphosphate 5-phosphatase OCRL,PF16726
+Q01968,Inositol polyphosphate 5-phosphatase OCRL,PF00620
+Q12972,Nuclear inhibitor of protein phosphatase 1,PF00498
+Q13153,Serine/threonine-protein kinase PAK 1,PF00786
+Q13153,Serine/threonine-protein kinase PAK 1,PF00069
+Q96P20,"NACHT, LRR and PYD domains-containing protein 3",PF14484
+Q96P20,"NACHT, LRR and PYD domains-containing protein 3",PF13516
+Q96P20,"NACHT, LRR and PYD domains-containing protein 3",PF05729
+Q96P20,"NACHT, LRR and PYD domains-containing protein 3",PF17776
+Q96P20,"NACHT, LRR and PYD domains-containing protein 3",PF17779
+Q96P20,"NACHT, LRR and PYD domains-containing protein 3",PF02758
+O43776,"Asparagine--tRNA ligase, cytoplasmic",PF20917
+O43776,"Asparagine--tRNA ligase, cytoplasmic",PF00152
+O43776,"Asparagine--tRNA ligase, cytoplasmic",PF01336
+Q6NSJ0,Myogenesis-regulating glycosidase,PF01055
+Q6NSJ0,Myogenesis-regulating glycosidase,PF21365
+P60520,Gamma-aminobutyric acid receptor-associated protein-like 2,PF02991
+Q6ZNJ1,Neurobeachin-like protein 2,PF02138
+Q6ZNJ1,Neurobeachin-like protein 2,PF15787
+Q6ZNJ1,Neurobeachin-like protein 2,PF16057
+Q6ZNJ1,Neurobeachin-like protein 2,PF20426
+Q6ZNJ1,Neurobeachin-like protein 2,PF20425
+Q6ZNJ1,Neurobeachin-like protein 2,PF14844
+Q9Y468,Lethal,PF02820
+Q9Y468,Lethal,PF01530
+P49327,Fatty acid synthase,PF00698
+P49327,Fatty acid synthase,PF00107
+P49327,Fatty acid synthase,PF21149
+P49327,Fatty acid synthase,PF16197
+P49327,Fatty acid synthase,PF00109
+P49327,Fatty acid synthase,PF02801
+P49327,Fatty acid synthase,PF08659
+P49327,Fatty acid synthase,PF08242
+P49327,Fatty acid synthase,PF21089
+P49327,Fatty acid synthase,PF00550
+P49327,Fatty acid synthase,PF00975
+Q8NFD2,Ankyrin repeat and protein kinase domain-containing protein 1,PF00023
+Q8NFD2,Ankyrin repeat and protein kinase domain-containing protein 1,PF12796
+Q8NFD2,Ankyrin repeat and protein kinase domain-containing protein 1,PF13637
+Q8NFD2,Ankyrin repeat and protein kinase domain-containing protein 1,PF07714
+Q9Y3Q8,TSC22 domain family protein 4,PF01166
+Q00610,Clathrin heavy chain 1,PF00637
+Q00610,Clathrin heavy chain 1,PF09268
+Q00610,Clathrin heavy chain 1,PF13838
+Q00610,Clathrin heavy chain 1,PF01394
+Q99808,Equilibrative nucleoside transporter 1,PF01733
+Q01844,RNA-binding protein EWS,PF00076
+Q01844,RNA-binding protein EWS,PF00641
+Q9NVH6,"Trimethyllysine dioxygenase, mitochondrial",PF06155
+Q9NVH6,"Trimethyllysine dioxygenase, mitochondrial",PF02668
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF20907
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF01003
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF07652
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF21659
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF02832
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF00869
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF01004
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF00948
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF01005
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF01002
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF01350
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF01349
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF00972
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF20483
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF01570
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF01728
+A0A142I5B9,Genome polyprotein [Cleaved into: Capsid protein C,PF00949
+Q5U302,Catenin alpha-1,PF01044
+D3ZJ32,Extended synaptotagmin-2,PF00168
+D3ZJ32,Extended synaptotagmin-2,PF17047
+P0DPB6,DNA-directed RNA polymerases I and III subunit RPAC2,PF13656
+P29353,SHC-transforming protein 1,PF00640
+P29353,SHC-transforming protein 1,PF00017
+Q53GL0,Pleckstrin homology domain-containing family O member 1,PF00169
+Q7L5D6,Golgi to ER traffic protein 4 homolog,PF04190
+P15822,Zinc finger protein 40,PF00096
+Q9BUF5,Tubulin beta-6 chain,PF00091
+Q9BUF5,Tubulin beta-6 chain,PF03953
+Q9Y5J5,Pleckstrin homology-like domain family A member 3,PF00169
+Q15637,Splicing factor 1,PF22675
+Q15637,Splicing factor 1,PF16275
+Q15637,Splicing factor 1,PF00098
+Q8IY84,Serine/threonine-protein kinase NIM1,PF00069
+P30530,Tyrosine-protein kinase receptor UFO,PF00041
+P30530,Tyrosine-protein kinase receptor UFO,PF13927
+P30530,Tyrosine-protein kinase receptor UFO,PF07714
+P25685,DnaJ homolog subfamily B member 1,PF00226
+P25685,DnaJ homolog subfamily B member 1,PF01556
+Q14166,Tubulin--tyrosine ligase-like protein 12,PF03133
+O15400,Syntaxin-7,PF05739
+O15400,Syntaxin-7,PF14523
+Q00653,Nuclear factor NF-kappa-B p100 subunit,PF12796
+Q00653,Nuclear factor NF-kappa-B p100 subunit,PF00531
+Q00653,Nuclear factor NF-kappa-B p100 subunit,PF16179
+Q00653,Nuclear factor NF-kappa-B p100 subunit,PF00554
+P38606,V-type proton ATPase catalytic subunit A,PF00006
+P38606,V-type proton ATPase catalytic subunit A,PF02874
+P38606,V-type proton ATPase catalytic subunit A,PF16886
+P38606,V-type proton ATPase catalytic subunit A,PF22919
+Q7KZ85,Transcription elongation factor SPT6,PF14635
+Q7KZ85,Transcription elongation factor SPT6,PF17674
+Q7KZ85,Transcription elongation factor SPT6,PF14641
+Q7KZ85,Transcription elongation factor SPT6,PF00575
+Q7KZ85,Transcription elongation factor SPT6,PF14633
+Q7KZ85,Transcription elongation factor SPT6,PF14632
+Q7KZ85,Transcription elongation factor SPT6,PF22706
+Q7KZ85,Transcription elongation factor SPT6,PF14639
+P0DTD1,Replicase polyprotein 1ab,PF13087
+P0DTD1,Replicase polyprotein 1ab,PF16251
+P0DTD1,Replicase polyprotein 1ab,PF11501
+P0DTD1,Replicase polyprotein 1ab,PF12379
+P0DTD1,Replicase polyprotein 1ab,PF12124
+P0DTD1,Replicase polyprotein 1ab,PF11633
+P0DTD1,Replicase polyprotein 1ab,PF06471
+P0DTD1,Replicase polyprotein 1ab,PF06460
+P0DTD1,Replicase polyprotein 1ab,PF09401
+P0DTD1,Replicase polyprotein 1ab,PF20631
+P0DTD1,Replicase polyprotein 1ab,PF20633
+P0DTD1,Replicase polyprotein 1ab,PF20632
+P0DTD1,Replicase polyprotein 1ab,PF19215
+P0DTD1,Replicase polyprotein 1ab,PF19216
+P0DTD1,Replicase polyprotein 1ab,PF19219
+P0DTD1,Replicase polyprotein 1ab,PF19212
+P0DTD1,Replicase polyprotein 1ab,PF19211
+P0DTD1,Replicase polyprotein 1ab,PF19218
+P0DTD1,Replicase polyprotein 1ab,PF16348
+P0DTD1,Replicase polyprotein 1ab,PF19217
+P0DTD1,Replicase polyprotein 1ab,PF19213
+P0DTD1,Replicase polyprotein 1ab,PF08716
+P0DTD1,Replicase polyprotein 1ab,PF08717
+P0DTD1,Replicase polyprotein 1ab,PF08710
+P0DTD1,Replicase polyprotein 1ab,PF08715
+P0DTD1,Replicase polyprotein 1ab,PF06478
+P0DTD1,Replicase polyprotein 1ab,PF01661
+P0DTD1,Replicase polyprotein 1ab,PF05409
+P0DTD1,Replicase polyprotein 1ab,PF00680
+P57058,Hormonally up-regulated neu tumor-associated kinase,PF00069
+Q9D7K2,CST complex subunit TEN1,PF15490
+Q9BWU0,Kanadaptin,PF00035
+Q9BWU0,Kanadaptin,PF00498
+O14556,"Glyceraldehyde-3-phosphate dehydrogenase, testis-specific",PF02800
+O14556,"Glyceraldehyde-3-phosphate dehydrogenase, testis-specific",PF00044
+Q13547,Histone deacetylase 1,PF00850
+Q7Z6J6,FERM domain-containing protein 5,PF08736
+Q7Z6J6,FERM domain-containing protein 5,PF09380
+Q7Z6J6,FERM domain-containing protein 5,PF00373
+Q7Z6J6,FERM domain-containing protein 5,PF09379
+Q8IZT6,Abnormal spindle-like microcephaly-associated protein,PF15780
+Q8IZT6,Abnormal spindle-like microcephaly-associated protein,PF00307
+Q8IZT6,Abnormal spindle-like microcephaly-associated protein,PF00612
+P04350,Tubulin beta-4A chain,PF00091
+P04350,Tubulin beta-4A chain,PF03953
+P14618,Pyruvate kinase PKM,PF00224
+P14618,Pyruvate kinase PKM,PF02887
+O43542,DNA repair protein XRCC3,PF08423
+Q04656,Copper-transporting ATPase 1,PF00122
+Q04656,Copper-transporting ATPase 1,PF00403
+Q04656,Copper-transporting ATPase 1,PF00702
+Q96QS6,Serine/threonine-protein kinase H2,PF00069
+P51530,DNA replication ATP-dependent helicase/nuclease DNA2,PF13086
+P51530,DNA replication ATP-dependent helicase/nuclease DNA2,PF13087
+P51530,DNA replication ATP-dependent helicase/nuclease DNA2,PF08696
+P51530,DNA replication ATP-dependent helicase/nuclease DNA2,PF21123
+O14874,Branched-chain alpha-ketoacid dehydrogenase kinase,PF10436
+O14874,Branched-chain alpha-ketoacid dehydrogenase kinase,PF02518
+Q27J81,Inverted formin-2,PF06367
+Q27J81,Inverted formin-2,PF06371
+Q27J81,Inverted formin-2,PF02181
+Q27J81,Inverted formin-2,PF02205
+O00429,Dynamin-1-like protein,PF01031
+O00429,Dynamin-1-like protein,PF00350
+O00429,Dynamin-1-like protein,PF02212
+Q9H3D4,Tumor protein 63,PF00870
+Q9H3D4,Tumor protein 63,PF07710
+Q9H3D4,Tumor protein 63,PF07647
+Q5TYW1,Zinc finger protein 658,PF01352
+Q5TYW1,Zinc finger protein 658,PF00096
+Q1EHW4,Histone deacetylase complex subunit SAP25,PF15476
+J3KPF9,Kinesin-like protein,PF00225
+D3ZUV3,Eukaryotic translation initiation factor 2A,PF08662
+P63098,Calcineurin subunit B type 1,PF13499
+Q9BZL6,Serine/threonine-protein kinase D2,PF00130
+Q9BZL6,Serine/threonine-protein kinase D2,PF00169
+Q9BZL6,Serine/threonine-protein kinase D2,PF00069
+Q9NX70,Mediator of RNA polymerase II transcription subunit 29,PF11568
+P23396,Small ribosomal subunit protein uS3,PF07650
+P23396,Small ribosomal subunit protein uS3,PF00189
+Q9Y6M5,Proton-coupled zinc antiporter SLC30A1,PF01545
+P08559,"Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial",PF00676
+Q8TD19,Serine/threonine-protein kinase Nek9,PF00069
+Q8TD19,Serine/threonine-protein kinase Nek9,PF25390
+Q9BVP2,Guanine nucleotide-binding protein-like 3,PF08701
+Q9BVP2,Guanine nucleotide-binding protein-like 3,PF01926
+Q9P2U7,Vesicular glutamate transporter 1,PF07690
+Q9Y6N5,"Sulfide:quinone oxidoreductase, mitochondrial",PF07992
+O95396,Adenylyltransferase and sulfurtransferase MOCS3,PF00581
+O95396,Adenylyltransferase and sulfurtransferase MOCS3,PF00899
+Q14164,Inhibitor of nuclear factor kappa-B kinase subunit epsilon,PF00069
+Q14164,Inhibitor of nuclear factor kappa-B kinase subunit epsilon,PF18394
+Q14164,Inhibitor of nuclear factor kappa-B kinase subunit epsilon,PF18396
+Q9H1R3,"Myosin light chain kinase 2, skeletal/cardiac muscle",PF00069
+Q8N5H7,SH2 domain-containing protein 3C,PF00617
+Q8N5H7,SH2 domain-containing protein 3C,PF00017
+Q8TAC9,Secretory carrier-associated membrane protein 5,PF04144
+P58200,Vesicle transport through interaction with t-SNAREs homolog 1B,PF05008
+P58200,Vesicle transport through interaction with t-SNAREs homolog 1B,PF12352
+Q9QY36,N-alpha-acetyltransferase 10,PF00583
+Q6UWJ1,Transmembrane and coiled-coil domain-containing protein 3,PF00999
+Q8IWF6,Protein DENND6A,PF09794
+Q5JU00,Dynein regulatory complex subunit 5,PF13516
+Q3ZCM7,Tubulin beta-8 chain,PF00091
+Q3ZCM7,Tubulin beta-8 chain,PF03953
+Q92918,Mitogen-activated protein kinase kinase kinase kinase 1,PF00780
+Q92918,Mitogen-activated protein kinase kinase kinase kinase 1,PF00069
+P25686,DnaJ homolog subfamily B member 2,PF00226
+Q6ZN17,Protein lin-28 homolog B,PF00313
+Q6ZN17,Protein lin-28 homolog B,PF21890
+Q6ZN17,Protein lin-28 homolog B,PF00098
+Q9NQT4,Exosome complex component RRP46,PF01138
+Q9NQT4,Exosome complex component RRP46,PF03725
+P26196,Probable ATP-dependent RNA helicase DDX6,PF00270
+P26196,Probable ATP-dependent RNA helicase DDX6,PF00271
+Q96T37,RNA-binding protein 15,PF00076
+Q96T37,RNA-binding protein 15,PF07744
+Q00597,Fanconi anemia group C protein,PF02106
+O14939,Phospholipase D2,PF00614
+O14939,Phospholipase D2,PF13091
+O14939,Phospholipase D2,PF00787
+Q96Q89,Kinesin-like protein KIF20B,PF00225
+Q9UKB1,F-box/WD repeat-containing protein 11,PF12125
+Q9UKB1,F-box/WD repeat-containing protein 11,PF12937
+Q9UKB1,F-box/WD repeat-containing protein 11,PF00400
+Q9Y572,Receptor-interacting serine/threonine-protein kinase 3,PF00069
+Q9Y572,Receptor-interacting serine/threonine-protein kinase 3,PF12721
+Q00872,"Myosin-binding protein C, slow-type",PF00041
+Q00872,"Myosin-binding protein C, slow-type",PF07679
+Q00872,"Myosin-binding protein C, slow-type",PF18362
+Q13404,Ubiquitin-conjugating enzyme E2 variant 1,PF00179
+P68372,Tubulin beta-4B chain,PF00091
+P68372,Tubulin beta-4B chain,PF03953
+A2AAE1,Bridge-like lipid transfer protein family member 1,PF25040
+A2AAE1,Bridge-like lipid transfer protein family member 1,PF25039
+A2AAE1,Bridge-like lipid transfer protein family member 1,PF20413
+P30408,Transmembrane 4 L6 family member 1,PF05805
+Q8IZ57,Neurensin-1,PF14927
+Q96LA9,Mas-related G-protein coupled receptor member X4,PF00001
+P05787,"Keratin, type II cytoskeletal 8",PF00038
+P05787,"Keratin, type II cytoskeletal 8",PF16208
+P19438,Tumor necrosis factor receptor superfamily member 1A,PF00531
+P19438,Tumor necrosis factor receptor superfamily member 1A,PF00020
+Q13616,Cullin-1,PF00888
+Q13616,Cullin-1,PF10557
+Q16659,Mitogen-activated protein kinase 6,PF00069
+Q8N488,RING1 and YY1-binding protein,PF17219
+Q8N488,RING1 and YY1-binding protein,PF00641
+Q13363,C-terminal-binding protein 1,PF00389
+Q13363,C-terminal-binding protein 1,PF02826
+Q14190,Single-minded homolog 2,PF23171
+Q14190,Single-minded homolog 2,PF00989
+Q14190,Single-minded homolog 2,PF08447
+Q14190,Single-minded homolog 2,PF06621
+Q6ZRV2,Protein FAM83H,PF07894
+Q9BXJ9,"N-alpha-acetyltransferase 15, NatA auxiliary subunit",PF12569
+Q9BXJ9,"N-alpha-acetyltransferase 15, NatA auxiliary subunit",PF13181
+P06748,Nucleophosmin,PF16276
+P06748,Nucleophosmin,PF03066
+P09651,Heterogeneous nuclear ribonucleoprotein A1,PF11627
+P09651,Heterogeneous nuclear ribonucleoprotein A1,PF00076
+Q7Z695,Uncharacterized aarF domain-containing protein kinase 2,PF03109
+Q9Y248,DNA replication complex GINS protein PSF2,PF25005
+Q9Y248,DNA replication complex GINS protein PSF2,PF05916
+P61457,Pterin-4-alpha-carbinolamine dehydratase,PF01329
+Q69YQ0,Cytospin-A,PF00307
+Q16666,Gamma-interferon-inducible protein 16,PF02760
+Q16666,Gamma-interferon-inducible protein 16,PF02758
+P0DTL6,Zinc finger TRAF-type-containing protein 1,PF21362
+Q9NSY0,Nuclear receptor-binding protein 2,PF00069
+Q8K4Z5,Splicing factor 3A subunit 1,PF12230
+Q8K4Z5,Splicing factor 3A subunit 1,PF01805
+Q8K4Z5,Splicing factor 3A subunit 1,PF00240
+Q309B1,Tripartite motif-containing protein 16-like protein,PF13765
+Q309B1,Tripartite motif-containing protein 16-like protein,PF00622
+Q29RF7,Sister chromatid cohesion protein PDS5 homolog A,PF20168
+P42898,Methylenetetrahydrofolate reductase,PF02219
+P42898,Methylenetetrahydrofolate reductase,PF21895
+P62805,Histone H4,PF15511
+Q13123,Protein Red,PF07807
+Q13123,Protein Red,PF07808
+Q15785,Mitochondrial import receptor subunit TOM34,PF00515
+Q8TCG2,Phosphatidylinositol 4-kinase type 2-beta,PF00454
+Q9C0E8,Endoplasmic reticulum junction formation protein lunapark,PF10058
+Q9UDY4,DnaJ homolog subfamily B member 4,PF00226
+Q9UDY4,DnaJ homolog subfamily B member 4,PF01556
+Q07864,DNA polymerase epsilon catalytic subunit A,PF03104
+Q07864,DNA polymerase epsilon catalytic subunit A,PF08490
+Q07864,DNA polymerase epsilon catalytic subunit A,PF22634
+Q07864,DNA polymerase epsilon catalytic subunit A,PF22912
+Q07864,DNA polymerase epsilon catalytic subunit A,PF23250
+Q12931,"Heat shock protein 75 kDa, mitochondrial",PF13589
+Q12931,"Heat shock protein 75 kDa, mitochondrial",PF00183
+P51854,Transketolase-like protein 1,PF02779
+P51854,Transketolase-like protein 1,PF02780
+P51854,Transketolase-like protein 1,PF00456
+Q03721,Voltage-gated potassium channel KCNC4,PF02214
+Q03721,Voltage-gated potassium channel KCNC4,PF00520
+Q03721,Voltage-gated potassium channel KCNC4,PF11601
+Q96JB6,Lysyl oxidase homolog 4,PF01186
+Q96JB6,Lysyl oxidase homolog 4,PF00530
+Q96SB4,SRSF protein kinase 1,PF00069
+Q9P2L0,WD repeat-containing protein 35,PF23390
+Q9P2L0,WD repeat-containing protein 35,PF24797
+Q9P2L0,WD repeat-containing protein 35,PF23387
+Q9P2L0,WD repeat-containing protein 35,PF25170
+Q9P2L0,WD repeat-containing protein 35,PF23145
+O14617,AP-3 complex subunit delta-1,PF01602
+O14617,AP-3 complex subunit delta-1,PF06375
+Q99755,Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha,PF01504
+Q9Y597,BTB/POZ domain-containing protein KCTD3,PF02214
+P10619,Lysosomal protective protein,PF00450
+P62280,Small ribosomal subunit protein uS17,PF00366
+P62280,Small ribosomal subunit protein uS17,PF16205
+O75563,Src kinase-associated phosphoprotein 2,PF00169
+O75563,Src kinase-associated phosphoprotein 2,PF00018
+Q15427,Splicing factor 3B subunit 4,PF00076
+Q8TBC3,SH3KBP1-binding protein 1,PF02214
+O15524,Suppressor of cytokine signaling 1,PF00017
+O15524,Suppressor of cytokine signaling 1,PF07525
+P54253,Ataxin-1,PF12547
+P54253,Ataxin-1,PF08517
+Q9HCU9,Breast cancer metastasis-suppressor 1,PF08598
+Q12765,Secernin-1,PF03577
+P51692,Signal transducer and activator of transcription 5B,PF00017
+P51692,Signal transducer and activator of transcription 5B,PF01017
+P51692,Signal transducer and activator of transcription 5B,PF02864
+P51692,Signal transducer and activator of transcription 5B,PF02865
+P51692,Signal transducer and activator of transcription 5B,PF21354
+Q676U5,Autophagy-related protein 16-1,PF08614
+Q676U5,Autophagy-related protein 16-1,PF00400
+Q99558,Mitogen-activated protein kinase kinase kinase 14,PF00069
+Q7Z7G8,Intermembrane lipid transfer protein VPS13B,PF25033
+Q7Z7G8,Intermembrane lipid transfer protein VPS13B,PF12624
+Q7Z7G8,Intermembrane lipid transfer protein VPS13B,PF25036
+Q7Z6Z7,E3 ubiquitin-protein ligase HUWE1,PF06012
+Q7Z6Z7,E3 ubiquitin-protein ligase HUWE1,PF06025
+Q7Z6Z7,E3 ubiquitin-protein ligase HUWE1,PF00632
+Q7Z6Z7,E3 ubiquitin-protein ligase HUWE1,PF22562
+Q7Z6Z7,E3 ubiquitin-protein ligase HUWE1,PF14377
+Q7Z6Z7,E3 ubiquitin-protein ligase HUWE1,PF02825
+P53671,LIM domain kinase 2,PF00412
+P53671,LIM domain kinase 2,PF00595
+P53671,LIM domain kinase 2,PF07714
+P05213,Tubulin alpha-1B chain,PF00091
+P05213,Tubulin alpha-1B chain,PF03953
+O35509,Ras-related protein Rab-11B,PF00071
+Q9CQ10,Charged multivesicular body protein 3,PF03357
+B2RXH8,Heterogeneous nuclear ribonucleoprotein C-like 2,PF00076
+P10632,Cytochrome P450 2C8,PF00067
+Q13304,Uracil nucleotide/cysteinyl leukotriene receptor,PF00001
+Q14134,Tripartite motif-containing protein 29,PF00643
+Q96GG9,DCN1-like protein 1,PF03556
+Q96GG9,DCN1-like protein 1,PF14555
+O43665,Regulator of G-protein signaling 10,PF00615
+Q96AK3,DNA dC->dU-editing enzyme APOBEC-3D,PF18782
+P21579,Synaptotagmin-1,PF00168
+P83110,Serine protease HTRA3,PF00219
+P83110,Serine protease HTRA3,PF07648
+P83110,Serine protease HTRA3,PF13180
+P83110,Serine protease HTRA3,PF13365
+Q709C8,Intermembrane lipid transfer protein VPS13C,PF25037
+Q709C8,Intermembrane lipid transfer protein VPS13C,PF25033
+Q709C8,Intermembrane lipid transfer protein VPS13C,PF12624
+Q709C8,Intermembrane lipid transfer protein VPS13C,PF25036
+Q99933,BAG family molecular chaperone regulator 1,PF02179
+Q99933,BAG family molecular chaperone regulator 1,PF00240
+Q9GZU7,Carboxy-terminal domain RNA polymerase II polypeptide A small phosphatase 1,PF03031
+Q494V2,Cilia- and flagella-associated protein 100,PF13863
+Q86VP6,Cullin-associated NEDD8-dissociated protein 1,PF13513
+Q86VP6,Cullin-associated NEDD8-dissociated protein 1,PF08623
+Q8IY92,Structure-specific endonuclease subunit SLX4,PF00651
+Q8IY92,Structure-specific endonuclease subunit SLX4,PF09494
+Q9UM73,ALK tyrosine kinase receptor,PF12810
+Q9UM73,ALK tyrosine kinase receptor,PF00629
+Q9UM73,ALK tyrosine kinase receptor,PF07714
+Q13426,DNA repair protein XRCC4,PF06632
+Q13426,DNA repair protein XRCC4,PF21925
+Q13426,DNA repair protein XRCC4,PF21924
+Q96M96,"FYVE, RhoGEF and PH domain-containing protein 4",PF01363
+Q96M96,"FYVE, RhoGEF and PH domain-containing protein 4",PF00169
+Q96M96,"FYVE, RhoGEF and PH domain-containing protein 4",PF00621
+Q5FWF4,DNA annealing helicase and endonuclease ZRANB3,PF00271
+Q5FWF4,DNA annealing helicase and endonuclease ZRANB3,PF01844
+Q5FWF4,DNA annealing helicase and endonuclease ZRANB3,PF00176
+Q5FWF4,DNA annealing helicase and endonuclease ZRANB3,PF00641
+P0DOE9,Non-structural protein 1,PF03438
+Q7Z6M3,Allergin-1,PF13895
+Q7Z6M3,Allergin-1,PF17736
+Q9NYY8,"FAST kinase domain-containing protein 2, mitochondrial",PF06743
+Q9NYY8,"FAST kinase domain-containing protein 2, mitochondrial",PF08368
+Q9NYY8,"FAST kinase domain-containing protein 2, mitochondrial",PF08373
+Q9P253,Vacuolar protein sorting-associated protein 18 homolog,PF05131
+O75439,Mitochondrial-processing peptidase subunit beta,PF00675
+O75439,Mitochondrial-processing peptidase subunit beta,PF05193
+P09913,Interferon-induced protein with tetratricopeptide repeats 2,PF13181
+Q8NDG6,ATP-dependent RNA helicase TDRD9,PF00270
+Q8NDG6,ATP-dependent RNA helicase TDRD9,PF21010
+Q8NDG6,ATP-dependent RNA helicase TDRD9,PF00271
+Q8NDG6,ATP-dependent RNA helicase TDRD9,PF00567
+Q9BTE3,Mini-chromosome maintenance complex-binding protein,PF09739
+P69905,Hemoglobin subunit alpha,PF00042
+Q6PJI9,GATOR2 complex protein WDR59,PF00400
+Q6PJI9,GATOR2 complex protein WDR59,PF17120
+Q9Y230,RuvB-like 2,PF06068
+Q9Y230,RuvB-like 2,PF17856
+Q15714,TSC22 domain family protein 1,PF01166
+Q2TB90,Hexokinase HKDC1,PF00349
+Q2TB90,Hexokinase HKDC1,PF03727
+Q14592,Zinc finger protein 460,PF01352
+Q14592,Zinc finger protein 460,PF00096
+P09450,Transcription factor JunB,PF00170
+P09450,Transcription factor JunB,PF03957
+Q9QY17,Protein kinase C and casein kinase substrate in neurons 2 protein,PF00611
+Q9QY17,Protein kinase C and casein kinase substrate in neurons 2 protein,PF14604
+P03452,Hemagglutinin [Cleaved into: Hemagglutinin HA1 chain; Hemagglutinin HA2 chain],PF00509
+Q8N5I9,NOP protein chaperone 1,PF15370
+Q9Z1X1,Extended synaptotagmin-1,PF00168
+Q9Z1X1,Extended synaptotagmin-1,PF17047
+P0DTD8,ORF7b protein,PF11395
+Q8WUH6,Transmembrane protein 263,PF15475
+P04626,Receptor tyrosine-protein kinase erbB-2,PF00757
+P04626,Receptor tyrosine-protein kinase erbB-2,PF14843
+P04626,Receptor tyrosine-protein kinase erbB-2,PF07714
+P04626,Receptor tyrosine-protein kinase erbB-2,PF01030
+P04626,Receptor tyrosine-protein kinase erbB-2,PF21314
+Q96GM8,Target of EGR1 protein 1,PF04857
+Q96GM8,Target of EGR1 protein 1,PF00642
+P35226,Polycomb complex protein BMI-1,PF16207
+P35226,Polycomb complex protein BMI-1,PF13923
+Q8NBT0,POC1 centriolar protein homolog A,PF00400
+P08238,Heat shock protein HSP 90-beta,PF13589
+P08238,Heat shock protein HSP 90-beta,PF00183
+Q9H0F6,Sharpin,PF25393
+Q9H0F6,Sharpin,PF16764
+Q6Q0C0,E3 ubiquitin-protein ligase TRAF7,PF00400
+Q6Q0C0,E3 ubiquitin-protein ligase TRAF7,PF13445
+Q93009,Ubiquitin carboxyl-terminal hydrolase 7,PF22486
+Q93009,Ubiquitin carboxyl-terminal hydrolase 7,PF00443
+Q93009,Ubiquitin carboxyl-terminal hydrolase 7,PF14533
+Q93009,Ubiquitin carboxyl-terminal hydrolase 7,PF12436
+P53675,Clathrin heavy chain 2,PF00637
+P53675,Clathrin heavy chain 2,PF09268
+P53675,Clathrin heavy chain 2,PF13838
+P53675,Clathrin heavy chain 2,PF01394
+Q13015,Protein AF1q,PF15017
+Q15750,TGF-beta-activated kinase 1 and MAP3K7-binding protein 1,PF00481
+Q9HC29,Nucleotide-binding oligomerization domain-containing protein 2,PF00619
+Q9HC29,Nucleotide-binding oligomerization domain-containing protein 2,PF13516
+Q9HC29,Nucleotide-binding oligomerization domain-containing protein 2,PF05729
+Q9HC29,Nucleotide-binding oligomerization domain-containing protein 2,PF17776
+Q9HC29,Nucleotide-binding oligomerization domain-containing protein 2,PF17779
+Q13492,Phosphatidylinositol-binding clathrin assembly protein,PF07651
+Q96RL7,Intermembrane lipid transfer protein VPS13A,PF25037
+Q96RL7,Intermembrane lipid transfer protein VPS13A,PF25033
+Q96RL7,Intermembrane lipid transfer protein VPS13A,PF12624
+Q96RL7,Intermembrane lipid transfer protein VPS13A,PF25036
+P49902,Cytosolic purine 5'-nucleotidase,PF05761
+P10636,Microtubule-associated protein tau,PF00418
+O75953,DnaJ homolog subfamily B member 5,PF00226
+O75953,DnaJ homolog subfamily B member 5,PF01556
+D3ZZZ9,Catenin delta 1,PF00514
+G3V9Z6,Septin,PF00735
+Q6YN16,Hydroxysteroid dehydrogenase-like protein 2,PF00106
+Q6YN16,Hydroxysteroid dehydrogenase-like protein 2,PF02036
+Q9BWH2,FUN14 domain-containing protein 2,PF04930
+O43379,WD repeat-containing protein 62,PF24780
+O43379,WD repeat-containing protein 62,PF24782
+O43379,WD repeat-containing protein 62,PF24795
+P06213,Insulin receptor,PF00041
+P06213,Insulin receptor,PF00757
+P06213,Insulin receptor,PF17870
+P06213,Insulin receptor,PF07714
+P06213,Insulin receptor,PF01030
+O75533,Splicing factor 3B subunit 1,PF22646
+O75533,Splicing factor 3B subunit 1,PF08920
+O95747,Serine/threonine-protein kinase OSR1,PF12202
+O95747,Serine/threonine-protein kinase OSR1,PF00069
+P43353,Aldehyde dehydrogenase family 3 member B1,PF00171
+P53350,Serine/threonine-protein kinase PLK1,PF00069
+P53350,Serine/threonine-protein kinase PLK1,PF00659
+P62993,Growth factor receptor-bound protein 2,PF00017
+P62993,Growth factor receptor-bound protein 2,PF00018
+P78362,SRSF protein kinase 2,PF00069
+Q13901,Nuclear nucleic acid-binding protein C1D,PF04000
+Q86UK5,Limbin,PF12297
+Q8NCD3,Holliday junction recognition protein,PF12347
+Q8NCD3,Holliday junction recognition protein,PF12346
+Q8NCD3,Holliday junction recognition protein,PF10384
+Q92572,AP-3 complex subunit sigma-1,PF01217
+Q9NYH9,U3 small nucleolar RNA-associated protein 6 homolog,PF08640
+Q9NYH9,U3 small nucleolar RNA-associated protein 6 homolog,PF24892
+Q8TCY9,Up-regulator of cell proliferation,PF25496
+Q5GLZ8,Probable E3 ubiquitin-protein ligase HERC4,PF00632
+Q5GLZ8,Probable E3 ubiquitin-protein ligase HERC4,PF25390
+Q8NB90,ATPase family gene 2 protein homolog A,PF00004
+Q8NB90,ATPase family gene 2 protein homolog A,PF17862
+Q9BTX7,Alpha-tocopherol transfer protein-like,PF00650
+Q9BTX7,Alpha-tocopherol transfer protein-like,PF03765
+F8VQC1,Signal recognition particle subunit SRP72,PF08492
+F8VQC1,Signal recognition particle subunit SRP72,PF17004
+F8VQC1,Signal recognition particle subunit SRP72,PF13174
+F8VQC1,Signal recognition particle subunit SRP72,PF13181
+O14910,Protein lin-7 homolog A,PF02828
+O14910,Protein lin-7 homolog A,PF00595
+O75379,Vesicle-associated membrane protein 4,PF00957
+P41240,Tyrosine-protein kinase CSK,PF07714
+P41240,Tyrosine-protein kinase CSK,PF00017
+P41240,Tyrosine-protein kinase CSK,PF00018
+Q13043,Serine/threonine-protein kinase 4,PF11629
+Q13043,Serine/threonine-protein kinase 4,PF00069
+Q9UG56,"Phosphatidylserine decarboxylase proenzyme, mitochondrial",PF02666
+Q9Y484,WD repeat domain phosphoinositide-interacting protein 4,PF21032
+O75665,Centriole and centriolar satellite protein OFD1,PF16045
+O95671,Probable bifunctional dTTP/UTP pyrophosphatase/methyltransferase protein [Includes: dTTP/UTP pyrophosphatase,PF08100
+O95671,Probable bifunctional dTTP/UTP pyrophosphatase/methyltransferase protein [Includes: dTTP/UTP pyrophosphatase,PF02545
+O95671,Probable bifunctional dTTP/UTP pyrophosphatase/methyltransferase protein [Includes: dTTP/UTP pyrophosphatase,PF00891
+Q5SY16,Polynucleotide 5'-hydroxyl-kinase NOL9,PF16575
+Q5SY16,Polynucleotide 5'-hydroxyl-kinase NOL9,PF24419
+Q5SY16,Polynucleotide 5'-hydroxyl-kinase NOL9,PF25467
+P35916,Vascular endothelial growth factor receptor 3,PF07679
+P35916,Vascular endothelial growth factor receptor 3,PF13927
+P35916,Vascular endothelial growth factor receptor 3,PF22971
+P35916,Vascular endothelial growth factor receptor 3,PF07714
+P35916,Vascular endothelial growth factor receptor 3,PF21339
+P35916,Vascular endothelial growth factor receptor 3,PF17988
+P35916,Vascular endothelial growth factor receptor 3,PF22854
+Q6PCD5,E3 ubiquitin-protein ligase RFWD3,PF23419
+Q6PCD5,E3 ubiquitin-protein ligase RFWD3,PF13639
+Q96BF6,Nucleus accumbens-associated protein 2,PF10523
+Q96BF6,Nucleus accumbens-associated protein 2,PF00651
+P01106,Myc proto-oncogene protein,PF00010
+P01106,Myc proto-oncogene protein,PF02344
+P01106,Myc proto-oncogene protein,PF01056
+P06729,T-cell surface antigen CD2,PF05790
+P06729,T-cell surface antigen CD2,PF07686
+P61081,NEDD8-conjugating enzyme Ubc12,PF00179
+Q9NRX4,14 kDa phosphohistidine phosphatase,PF05005
+Q8NEZ3,WD repeat-containing protein 19,PF23389
+Q8NEZ3,WD repeat-containing protein 19,PF15911
+Q8NEZ3,WD repeat-containing protein 19,PF24762
+Q8NEZ3,WD repeat-containing protein 19,PF23145
+Q8NEZ3,WD repeat-containing protein 19,PF23146
+Q8WZ42,Titin,PF00041
+Q8WZ42,Titin,PF07679
+Q8WZ42,Titin,PF00069
+Q8WZ42,Titin,PF02818
+Q8WZ42,Titin,PF18362
+Q8WZ42,Titin,PF09042
+P49757,Protein numb homolog,PF06311
+P49757,Protein numb homolog,PF00640
+Q4VXA5,KH homology domain-containing protein 1,PF16005
+P29084,Transcription initiation factor IIE subunit beta,PF18121
+P29084,Transcription initiation factor IIE subunit beta,PF02186
+P62258,14-3-3 protein epsilon,PF00244
+Q00341,Vigilin,PF00013
+Q00341,Vigilin,PF24668
+Q5VTD9,Zinc finger protein Gfi-1b,PF00096
+O95707,Ribonuclease P protein subunit p29,PF01868
+P04629,High affinity nerve growth factor receptor,PF13855
+P04629,High affinity nerve growth factor receptor,PF16920
+P04629,High affinity nerve growth factor receptor,PF07714
+P04629,High affinity nerve growth factor receptor,PF18613
+P49368,T-complex protein 1 subunit gamma,PF00118
+P52333,Tyrosine-protein kinase JAK3,PF18379
+P52333,Tyrosine-protein kinase JAK3,PF18377
+P52333,Tyrosine-protein kinase JAK3,PF17887
+P52333,Tyrosine-protein kinase JAK3,PF07714
+P52333,Tyrosine-protein kinase JAK3,PF21990
+Q3ZCQ8,Mitochondrial import inner membrane translocase subunit TIM50,PF03031
+Q9H598,Vesicular inhibitory amino acid transporter,PF01490
+Q12800,Alpha-globin transcription factor CP2,PF04516
+Q12800,Alpha-globin transcription factor CP2,PF25416
+Q12800,Alpha-globin transcription factor CP2,PF18016
+Q14249,"Endonuclease G, mitochondrial",PF01223
+Q16288,NT-3 growth factor receptor,PF07679
+Q16288,NT-3 growth factor receptor,PF00047
+Q16288,NT-3 growth factor receptor,PF13855
+Q16288,NT-3 growth factor receptor,PF16920
+Q16288,NT-3 growth factor receptor,PF01462
+Q16288,NT-3 growth factor receptor,PF07714
+Q16832,Discoidin domain-containing receptor 2,PF21114
+Q16832,Discoidin domain-containing receptor 2,PF00754
+Q16832,Discoidin domain-containing receptor 2,PF07714
+Q9NV06,DDB1- and CUL4-associated factor 13,PF04158
+Q9NV06,DDB1- and CUL4-associated factor 13,PF00400
+Q9H832,Ubiquitin-conjugating enzyme E2 Z,PF00179
+P15498,Proto-oncogene vav,PF00130
+P15498,Proto-oncogene vav,PF11971
+P15498,Proto-oncogene vav,PF00169
+P15498,Proto-oncogene vav,PF00621
+P15498,Proto-oncogene vav,PF00017
+P15498,Proto-oncogene vav,PF00018
+Q15327,Ankyrin repeat domain-containing protein 1,PF12796
+Q9Y605,MORF4 family-associated protein 1,PF15155
+O14654,Insulin receptor substrate 4,PF02174
+P63172,Dynein light chain Tctex-type 1,PF03645
+Q4G0J3,La-related protein 7,PF05383
+Q4G0J3,La-related protein 7,PF00076
+Q4G0J3,La-related protein 7,PF08777
+Q9Y266,Nuclear migration protein nudC,PF04969
+Q9Y266,Nuclear migration protein nudC,PF16273
+Q9Y266,Nuclear migration protein nudC,PF14050
+P98172,Ephrin-B1,PF00812
+P60709,"Actin, cytoplasmic 1",PF00022
+P80192,Mitogen-activated protein kinase kinase kinase 9,PF00069
+P80192,Mitogen-activated protein kinase kinase kinase 9,PF14604
+Q13595,Transformer-2 protein homolog alpha,PF00076
+Q7L5Y6,DET1 homolog,PF09737
+Q96HI0,Sentrin-specific protease 5,PF02902
+Q96HI0,Sentrin-specific protease 5,PF19722
+O14649,Potassium channel subfamily K member 3,PF07885
+P20333,Tumor necrosis factor receptor superfamily member 1B,PF00020
+Q9H9G7,Protein argonaute-3,PF08699
+Q9H9G7,Protein argonaute-3,PF16488
+Q9H9G7,Protein argonaute-3,PF16487
+Q9H9G7,Protein argonaute-3,PF16486
+Q9H9G7,Protein argonaute-3,PF02170
+Q9H9G7,Protein argonaute-3,PF02171
+P10909,Clusterin,PF01093
+P17948,Vascular endothelial growth factor receptor 1,PF07679
+P17948,Vascular endothelial growth factor receptor 1,PF00047
+P17948,Vascular endothelial growth factor receptor 1,PF13927
+P17948,Vascular endothelial growth factor receptor 1,PF22971
+P17948,Vascular endothelial growth factor receptor 1,PF07714
+P17948,Vascular endothelial growth factor receptor 1,PF21339
+P17948,Vascular endothelial growth factor receptor 1,PF17988
+P17948,Vascular endothelial growth factor receptor 1,PF22854
+Q16513,Serine/threonine-protein kinase N2,PF02185
+Q16513,Serine/threonine-protein kinase N2,PF00069
+Q16513,Serine/threonine-protein kinase N2,PF00433
+Q9BUK6,Protein misato homolog 1,PF10644
+Q9BUK6,Protein misato homolog 1,PF14881
+O35964,Endophilin-A2,PF03114
+O35964,Endophilin-A2,PF00018
+P63045,Vesicle-associated membrane protein 2,PF00957
+A0A0G2JSH6,"Transient receptor potential cation channel, subfamily V, member 2",PF12796
+A0A0G2JSH6,"Transient receptor potential cation channel, subfamily V, member 2",PF00520
+Q15077,P2Y purinoceptor 6,PF00001
+Q3KNS6,Zinc finger protein 829,PF01352
+Q3KNS6,Zinc finger protein 829,PF00096
+Q8ND04,Nonsense-mediated mRNA decay factor SMG8,PF10220
+Q92956,Tumor necrosis factor receptor superfamily member 14,PF00020
+Q96RS0,Trimethylguanosine synthase,PF09445
+Q9Y333,U6 snRNA-associated Sm-like protein LSm2,PF01423
+P08311,Cathepsin G,PF00089
+P33151,Cadherin-5,PF01049
+P33151,Cadherin-5,PF00028
+P50548,ETS domain-containing transcription factor ERF,PF00178
+Q13546,Receptor-interacting serine/threonine-protein kinase 1,PF00531
+Q13546,Receptor-interacting serine/threonine-protein kinase 1,PF07714
+Q9BTE6,Alanyl-tRNA editing protein Aarsd1,PF07973
+Q16543,Hsp90 co-chaperone Cdc37,PF08564
+Q16543,Hsp90 co-chaperone Cdc37,PF08565
+Q16543,Hsp90 co-chaperone Cdc37,PF03234
+Q6PJ69,E3 ubiquitin-protein ligase TRIM65,PF00622
+Q6PJ69,E3 ubiquitin-protein ligase TRIM65,PF00643
+Q6PJ69,E3 ubiquitin-protein ligase TRIM65,PF00097
+Q9HDD0,Phospholipase A and acyltransferase 1,PF04970
+P19544,Wilms tumor protein,PF02165
+P19544,Wilms tumor protein,PF00096
+O60260,E3 ubiquitin-protein ligase parkin,PF22605
+O60260,E3 ubiquitin-protein ligase parkin,PF00240
+O60260,E3 ubiquitin-protein ligase parkin,PF17976
+O60260,E3 ubiquitin-protein ligase parkin,PF17978
+P02751,Fibronectin,PF00039
+P02751,Fibronectin,PF00040
+P02751,Fibronectin,PF00041
+B4URF7,Polymerase basic protein 2,PF20947
+B4URF7,Polymerase basic protein 2,PF20948
+B4URF7,Polymerase basic protein 2,PF20949
+B4URF7,Polymerase basic protein 2,PF20950
+B4URF7,Polymerase basic protein 2,PF00604
+B4URF7,Polymerase basic protein 2,PF20951
+B4URF7,Polymerase basic protein 2,PF20952
+Q6FHM2,Epididymis secretory sperm binding protein,PF25391
+P61088,Ubiquitin-conjugating enzyme E2 N,PF00179
+O75509,Tumor necrosis factor receptor superfamily member 21,PF00531
+O75509,Tumor necrosis factor receptor superfamily member 21,PF00020
+P23919,Thymidylate kinase,PF02223
+Q9BQE3,Tubulin alpha-1C chain,PF00091
+Q9BQE3,Tubulin alpha-1C chain,PF03953
+O15061,Synemin,PF00038
+O95219,Sorting nexin-4,PF00787
+P62495,Eukaryotic peptide chain release factor subunit 1,PF03463
+P62495,Eukaryotic peptide chain release factor subunit 1,PF03464
+P62495,Eukaryotic peptide chain release factor subunit 1,PF03465
+Q92797,Symplekin,PF11935
+Q92797,Symplekin,PF12295
+P49810,Presenilin-2,PF01080
+P62834,Ras-related protein Rap-1A,PF00071
+Q14674,Separin,PF03568
+Q9C0F1,Centrosomal protein of 44 kDa,PF15007
+Q9Y4L5,E3 ubiquitin-protein ligase RNF115,PF13639
+P42858,Huntingtin,PF20925
+P42858,Huntingtin,PF20927
+P42858,Huntingtin,PF12372
+P42858,Huntingtin,PF20926
+Q4ZG55,Protein GREB1,PF20692
+Q4ZG55,Protein GREB1,PF20688
+Q4ZG55,Protein GREB1,PF20267
+Q4ZG55,Protein GREB1,PF15782
+Q4ZG55,Protein GREB1,PF20691
+O00555,Voltage-dependent P/Q-type calcium channel subunit alpha-1A,PF08763
+O00555,Voltage-dependent P/Q-type calcium channel subunit alpha-1A,PF16905
+O00555,Voltage-dependent P/Q-type calcium channel subunit alpha-1A,PF00520
+Q92692,Nectin-2,PF08205
+Q92692,Nectin-2,PF07686
+Q9HB71,Calcyclin-binding protein,PF04969
+Q9HB71,Calcyclin-binding protein,PF05002
+Q9HB71,Calcyclin-binding protein,PF09032
+F1M8B7,Charged multivesicular body protein 2B,PF03357
+Q53FC7,Heat shock 70 kDa protein 6,PF00012
+O14862,Interferon-inducible protein AIM2,PF02760
+O14862,Interferon-inducible protein AIM2,PF02758
+P31689,DnaJ homolog subfamily A member 1,PF00226
+P31689,DnaJ homolog subfamily A member 1,PF01556
+P31689,DnaJ homolog subfamily A member 1,PF00684
+P46013,Proliferation marker protein Ki-67,PF00498
+P46013,Proliferation marker protein Ki-67,PF08065
+P46013,Proliferation marker protein Ki-67,PF15276
+Q9UPT9,Ubiquitin carboxyl-terminal hydrolase 22,PF00443
+Q9UPT9,Ubiquitin carboxyl-terminal hydrolase 22,PF02148
+O00222,Metabotropic glutamate receptor 8,PF00003
+O00222,Metabotropic glutamate receptor 8,PF01094
+O00222,Metabotropic glutamate receptor 8,PF07562
+Q8IWL3,Iron-sulfur cluster co-chaperone protein HscB,PF18256
+Q8IWL3,Iron-sulfur cluster co-chaperone protein HscB,PF07743
+Q13418,Scaffold protein ILK,PF12796
+Q13418,Scaffold protein ILK,PF07714
+Q8N4N3,Kelch-like protein 36,PF07707
+Q8N4N3,Kelch-like protein 36,PF00651
+Q8N4N3,Kelch-like protein 36,PF01344
+Q8N4N3,Kelch-like protein 36,PF24681
+Q96DB2,Histone deacetylase 11,PF00850
+Q9GZQ8,Microtubule-associated protein 1 light chain 3 beta,PF02991
+Q9Y697,Cysteine desulfurase,PF00266
+P36888,Receptor-type tyrosine-protein kinase FLT3,PF00047
+P36888,Receptor-type tyrosine-protein kinase FLT3,PF07714
+Q58WW2,DDB1- and CUL4-associated factor 6,PF00400
+Q9H2G2,STE20-like serine/threonine-protein kinase,PF00069
+Q9H2G2,STE20-like serine/threonine-protein kinase,PF12474
+P06239,Tyrosine-protein kinase Lck,PF07714
+P06239,Tyrosine-protein kinase Lck,PF00017
+P06239,Tyrosine-protein kinase Lck,PF00018
+Q9CWW7,CXXC-type zinc finger protein 1,PF12269
+Q9CWW7,CXXC-type zinc finger protein 1,PF00628
+Q9CWW7,CXXC-type zinc finger protein 1,PF02008
+P48678,Prelamin-A/C [Cleaved into: Lamin-A/C],PF00038
+P48678,Prelamin-A/C [Cleaved into: Lamin-A/C],PF00932
+Q9UQ10,"Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase",PF01408
+Q9UQ10,"Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase",PF22725
+Q2TB10,Zinc finger protein 800,PF25445
+Q2TB10,Zinc finger protein 800,PF00096
+Q2TB10,Zinc finger protein 800,PF16622
+Q2TB10,Zinc finger protein 800,PF16624
+Q05BV3,Echinoderm microtubule-associated protein-like 5,PF23409
+Q05BV3,Echinoderm microtubule-associated protein-like 5,PF23414
+Q05BV3,Echinoderm microtubule-associated protein-like 5,PF03451
+P04406,Glyceraldehyde-3-phosphate dehydrogenase,PF02800
+P04406,Glyceraldehyde-3-phosphate dehydrogenase,PF00044
+P21796,Non-selective voltage-gated ion channel VDAC1,PF01459
+Q16629,Serine/arginine-rich splicing factor 7,PF00076
+Q99615,DnaJ homolog subfamily C member 7,PF00226
+Q99615,DnaJ homolog subfamily C member 7,PF13414
+Q99615,DnaJ homolog subfamily C member 7,PF13432
+Q99615,DnaJ homolog subfamily C member 7,PF13181
+P19419,ETS domain-containing protein Elk-1,PF00178
+Q92905,COP9 signalosome complex subunit 5,PF18323
+Q92905,COP9 signalosome complex subunit 5,PF01398
+O43752,Syntaxin-6,PF05739
+O43752,Syntaxin-6,PF09177
+Q9BXS1,Isopentenyl-diphosphate delta-isomerase 2,PF00293
+Q9Y2H1,Serine/threonine-protein kinase 38-like,PF00069
+Q9Y2H1,Serine/threonine-protein kinase 38-like,PF00433
+Q14691,DNA replication complex GINS protein PSF1,PF24997
+Q14691,DNA replication complex GINS protein PSF1,PF05916
+Q9P2K8,eIF-2-alpha kinase GCN2,PF12745
+Q9P2K8,eIF-2-alpha kinase GCN2,PF00069
+Q9P2K8,eIF-2-alpha kinase GCN2,PF05773
+Q9P2K8,eIF-2-alpha kinase GCN2,PF13393
+P19320,Vascular cell adhesion protein 1,PF05790
+P19320,Vascular cell adhesion protein 1,PF07679
+P19320,Vascular cell adhesion protein 1,PF00047
+P19320,Vascular cell adhesion protein 1,PF13927
+Q6P1M3,LLGL scribble cell polarity complex component 2,PF08366
+Q6P1M3,LLGL scribble cell polarity complex component 2,PF00400
+P49023,Paxillin,PF00412
+P49023,Paxillin,PF03535
+Q9Y5B8,Nucleoside diphosphate kinase homolog 7,PF00334
+Q9Y5B8,Nucleoside diphosphate kinase homolog 7,PF25364
+P63092,Guanine nucleotide-binding protein G,PF00503
+Q9NUQ9,CYFIP-related Rac1 interactor B,PF07159
+O43734,E3 ubiquitin ligase TRAF3IP2,PF08357
+Q7Z304,MAM domain-containing protein 2,PF00629
+O15067,Phosphoribosylformylglycinamidine synthase,PF02769
+O15067,Phosphoribosylformylglycinamidine synthase,PF18072
+O15067,Phosphoribosylformylglycinamidine synthase,PF18076
+O15067,Phosphoribosylformylglycinamidine synthase,PF22689
+O15067,Phosphoribosylformylglycinamidine synthase,PF13507
+P51617,Interleukin-1 receptor-associated kinase 1,PF00531
+P51617,Interleukin-1 receptor-associated kinase 1,PF00069
+Q15051,IQ calmodulin-binding motif-containing protein 1,PF00612
+Q96A44,SPRY domain-containing SOCS box protein 4,PF07525
+Q96A44,SPRY domain-containing SOCS box protein 4,PF00622
+Q9Y6M4,Casein kinase I isoform gamma-3,PF12605
+Q9Y6M4,Casein kinase I isoform gamma-3,PF00069
+P62829,Large ribosomal subunit protein uL14,PF00238
+Q13451,Peptidyl-prolyl cis-trans isomerase FKBP5,PF00254
+Q13451,Peptidyl-prolyl cis-trans isomerase FKBP5,PF00515
+Q13451,Peptidyl-prolyl cis-trans isomerase FKBP5,PF13181
+Q8N4V1,ER membrane protein complex subunit 5,PF10270
+Q9BUB5,MAP kinase-interacting serine/threonine-protein kinase 1,PF00069
+Q92598,Heat shock protein 105 kDa,PF00012
+Q96JB5,CDK5 regulatory subunit-associated protein 3,PF05600
+P43088,Prostaglandin F2-alpha receptor,PF00001
+P52272,Heterogeneous nuclear ribonucleoprotein M,PF11532
+P52272,Heterogeneous nuclear ribonucleoprotein M,PF00076
+Q9Y2X0,Mediator of RNA polymerase II transcription subunit 16,PF20718
+Q9Y2X0,Mediator of RNA polymerase II transcription subunit 16,PF20719
+Q9Y2X0,Mediator of RNA polymerase II transcription subunit 16,PF11635
+Q9Y2X0,Mediator of RNA polymerase II transcription subunit 16,PF00400
+O75923,Dysferlin,PF00168
+O75923,Dysferlin,PF22901
+O75923,Dysferlin,PF08165
+O75923,Dysferlin,PF08150
+O75923,Dysferlin,PF08151
+O75923,Dysferlin,PF16165
+P05214,Tubulin alpha-3 chain,PF00091
+P05214,Tubulin alpha-3 chain,PF03953
+P13541,Myosin-3,PF00063
+P13541,Myosin-3,PF02736
+P13541,Myosin-3,PF01576
+Q9UBG7,Recombining binding protein suppressor of hairless-like protein,PF09270
+Q9UBG7,Recombining binding protein suppressor of hairless-like protein,PF09271
+Q9UBG7,Recombining binding protein suppressor of hairless-like protein,PF20144
+Q8NGN1,Olfactory receptor 6T1,PF13853
+D3ZDT1,Erythrocyte membrane protein band 4.1-like 2,PF05902
+D3ZDT1,Erythrocyte membrane protein band 4.1-like 2,PF08736
+D3ZDT1,Erythrocyte membrane protein band 4.1-like 2,PF09380
+D3ZDT1,Erythrocyte membrane protein band 4.1-like 2,PF00373
+D3ZDT1,Erythrocyte membrane protein band 4.1-like 2,PF09379
+Q9UFG5,UPF0449 protein C19orf25,PF15136
+P10809,"60 kDa heat shock protein, mitochondrial",PF00118
+P34931,Heat shock 70 kDa protein 1-like,PF00012
+P46063,ATP-dependent DNA helicase Q1,PF00270
+P46063,ATP-dependent DNA helicase Q1,PF00271
+P46063,ATP-dependent DNA helicase Q1,PF16124
+Q5W0B1,ORC ubiquitin ligase 1,PF13923
+O14964,Hepatocyte growth factor-regulated tyrosine kinase substrate,PF01363
+O14964,Hepatocyte growth factor-regulated tyrosine kinase substrate,PF12210
+O14964,Hepatocyte growth factor-regulated tyrosine kinase substrate,PF00790
+Q9NRY4,Rho GTPase-activating protein 35,PF23083
+Q9NRY4,Rho GTPase-activating protein 35,PF00071
+Q9NRY4,Rho GTPase-activating protein 35,PF00620
+Q9NRY4,Rho GTPase-activating protein 35,PF16512
+Q9NRY4,Rho GTPase-activating protein 35,PF19518
+O43707,Alpha-actinin-4,PF00307
+O43707,Alpha-actinin-4,PF08726
+O43707,Alpha-actinin-4,PF00435
+P0DMV8,Heat shock 70 kDa protein 1A,PF00012
+Q86TP1,Exopolyphosphatase PRUNE1,PF01368
+Q86TP1,Exopolyphosphatase PRUNE1,PF02833
+Q969Z0,FAST kinase domain-containing protein 4,PF06743
+Q969Z0,FAST kinase domain-containing protein 4,PF08368
+Q969Z0,FAST kinase domain-containing protein 4,PF08373
+Q9BRT8,Zinc-regulated GTPase metalloprotein activator 1A,PF02492
+Q9BRT8,Zinc-regulated GTPase metalloprotein activator 1A,PF07683
+P51957,Serine/threonine-protein kinase Nek4,PF00069
+P31749,RAC-alpha serine/threonine-protein kinase,PF00169
+P31749,RAC-alpha serine/threonine-protein kinase,PF00069
+P31749,RAC-alpha serine/threonine-protein kinase,PF00433
+P08581,Hepatocyte growth factor receptor,PF07714
+P08581,Hepatocyte growth factor receptor,PF01437
+P08581,Hepatocyte growth factor receptor,PF01403
+P08581,Hepatocyte growth factor receptor,PF01833
+Q92614,Unconventional myosin-XVIIIa,PF00063
+Q92614,Unconventional myosin-XVIIIa,PF01576
+Q92614,Unconventional myosin-XVIIIa,PF17820
+Q92614,Unconventional myosin-XVIIIa,PF24556
+Q13409,Cytoplasmic dynein 1 intermediate chain 2,PF11540
+Q13409,Cytoplasmic dynein 1 intermediate chain 2,PF00400
+Q61699,Heat shock protein 105 kDa,PF00012
+Q99M31,Heat shock 70 kDa protein 14,PF00012
+P07910,Heterogeneous nuclear ribonucleoproteins C1/C2,PF00076
+P13051,Uracil-DNA glycosylase,PF03167
+P49590,"Histidine--tRNA ligase, mitochondrial",PF03129
+P49590,"Histidine--tRNA ligase, mitochondrial",PF13393
+Q04206,Transcription factor p65,PF16179
+Q04206,Transcription factor p65,PF00554
+Q6ZMQ8,Serine/threonine-protein kinase LMTK1,PF07714
+Q96FW1,Ubiquitin thioesterase OTUB1,PF10275
+Q32P44,Echinoderm microtubule-associated protein-like 3,PF23409
+Q32P44,Echinoderm microtubule-associated protein-like 3,PF23414
+Q32P44,Echinoderm microtubule-associated protein-like 3,PF03451
+Q96PU8,KH domain-containing RNA-binding protein QKI,PF22675
+Q96PU8,KH domain-containing RNA-binding protein QKI,PF16551
+Q96PU8,KH domain-containing RNA-binding protein QKI,PF16544
+Q96PZ0,Pseudouridylate synthase 7 homolog,PF01142
+P00441,Superoxide dismutase [Cu-Zn],PF00080
+P63010,AP-2 complex subunit beta,PF01602
+P63010,AP-2 complex subunit beta,PF02883
+P63010,AP-2 complex subunit beta,PF09066
+Q9Y2Z2,"5-taurinomethyluridine-[tRNA] synthase subunit MTO1, mitochondrial",PF01134
+Q9Y2Z2,"5-taurinomethyluridine-[tRNA] synthase subunit MTO1, mitochondrial",PF21680
+Q9Y2Z2,"5-taurinomethyluridine-[tRNA] synthase subunit MTO1, mitochondrial",PF13932
+Q13439,Golgin subfamily A member 4,PF01465
+Q96M27,Protein PRRC1,PF01931
+P03431,RNA-directed RNA polymerase catalytic subunit,PF00602
+P0DTC7,ORF7a protein,PF08779
+Q14201,Protein BTG3,PF07742
+Q96K76,Ubiquitin carboxyl-terminal hydrolase 47,PF00443
+Q96K76,Ubiquitin carboxyl-terminal hydrolase 47,PF19718
+O15460,Prolyl 4-hydroxylase subunit alpha-2,PF13640
+O15460,Prolyl 4-hydroxylase subunit alpha-2,PF08336
+O15460,Prolyl 4-hydroxylase subunit alpha-2,PF23558
+Q15468,SCL-interrupting locus protein,PF15253
+Q9P2E3,NFX1-type zinc finger-containing protein 1,PF13086
+Q9P2E3,NFX1-type zinc finger-containing protein 1,PF13087
+Q9P2E3,NFX1-type zinc finger-containing protein 1,PF20173
+Q9P2E3,NFX1-type zinc finger-containing protein 1,PF25396
+O00391,Sulfhydryl oxidase 1,PF04777
+O00391,Sulfhydryl oxidase 1,PF18371
+O00391,Sulfhydryl oxidase 1,PF18108
+O00391,Sulfhydryl oxidase 1,PF00085
+P29376,Leukocyte tyrosine kinase receptor,PF12810
+P29376,Leukocyte tyrosine kinase receptor,PF07714
+Q5S007,Leucine-rich repeat serine/threonine-protein kinase 2,PF23745
+Q5S007,Leucine-rich repeat serine/threonine-protein kinase 2,PF23744
+Q5S007,Leucine-rich repeat serine/threonine-protein kinase 2,PF23748
+Q5S007,Leucine-rich repeat serine/threonine-protein kinase 2,PF16095
+Q5S007,Leucine-rich repeat serine/threonine-protein kinase 2,PF25497
+Q5S007,Leucine-rich repeat serine/threonine-protein kinase 2,PF13855
+Q5S007,Leucine-rich repeat serine/threonine-protein kinase 2,PF00069
+Q5S007,Leucine-rich repeat serine/threonine-protein kinase 2,PF08477
+Q05513,Protein kinase C zeta type,PF00130
+Q05513,Protein kinase C zeta type,PF00564
+Q05513,Protein kinase C zeta type,PF00069
+Q05513,Protein kinase C zeta type,PF00433
+Q8NHV4,Protein NEDD1,PF00400
+Q8TEQ6,Gem-associated protein 5,PF23770
+Q8TEQ6,Gem-associated protein 5,PF23775
+Q8TEQ6,Gem-associated protein 5,PF23777
+Q8TEQ6,Gem-associated protein 5,PF23774
+Q8TEQ6,Gem-associated protein 5,PF00400
+Q96EK5,KIF-binding protein,PF12309
+Q9BY67,Cell adhesion molecule 1,PF08205
+Q9BY67,Cell adhesion molecule 1,PF13927
+Q9BY67,Cell adhesion molecule 1,PF07686
+Q6IQ23,Pleckstrin homology domain-containing family A member 7,PF00169
+P53367,Arfaptin-1,PF06456
+Q92466,DNA damage-binding protein 2,PF00400
+Q13393,Phospholipase D1,PF00169
+Q13393,Phospholipase D1,PF00614
+Q13393,Phospholipase D1,PF13091
+Q13393,Phospholipase D1,PF00787
+Q5XI73,Rho GDP-dissociation inhibitor 1,PF02115
+E9Q2H1,E3 ubiquitin-protein ligase UBR5,PF11547
+E9Q2H1,E3 ubiquitin-protein ligase UBR5,PF00632
+E9Q2H1,E3 ubiquitin-protein ligase UBR5,PF00658
+B5DFG5,Septin,PF00735
+D3ZUL1,Coiled-coil domain containing 124,PF06244
+Q53T94,TATA box-binding protein-associated factor RNA polymerase I subunit B,PF20645
+Q53T94,TATA box-binding protein-associated factor RNA polymerase I subunit B,PF20644
+Q53T94,TATA box-binding protein-associated factor RNA polymerase I subunit B,PF11781
+Q9UBN7,Protein deacetylase HDAC6,PF00850
+Q9UBN7,Protein deacetylase HDAC6,PF02148
+O15084,Serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit A,PF00023
+O15084,Serine/threonine-protein phosphatase 6 regulatory ankyrin repeat subunit A,PF12796
+P47813,"Eukaryotic translation initiation factor 1A, X-chromosomal",PF01176
+Q12933,TNF receptor-associated factor 2,PF21355
+Q12933,TNF receptor-associated factor 2,PF21341
+Q12933,TNF receptor-associated factor 2,PF16673
+Q12933,TNF receptor-associated factor 2,PF00097
+Q12933,TNF receptor-associated factor 2,PF02176
+Q53HC5,Kelch-like protein 26,PF07707
+Q53HC5,Kelch-like protein 26,PF00651
+Q53HC5,Kelch-like protein 26,PF01344
+Q53HC5,Kelch-like protein 26,PF13964
+O43504,Ragulator complex protein LAMTOR5,PF16672
+P23258,Tubulin gamma-1 chain,PF00091
+P23258,Tubulin gamma-1 chain,PF03953
+Q15572,TATA box-binding protein-associated factor RNA polymerase I subunit C,PF20641
+Q15572,TATA box-binding protein-associated factor RNA polymerase I subunit C,PF20643
+Q15572,TATA box-binding protein-associated factor RNA polymerase I subunit C,PF20642
+Q96EN8,Molybdenum cofactor sulfurase,PF00266
+Q96EN8,Molybdenum cofactor sulfurase,PF03473
+Q96EN8,Molybdenum cofactor sulfurase,PF03476
+Q9NUP9,Protein lin-7 homolog C,PF02828
+Q9NUP9,Protein lin-7 homolog C,PF00595
+Q9Y2L1,Exosome complex exonuclease RRP44,PF17849
+Q9Y2L1,Exosome complex exonuclease RRP44,PF13638
+Q9Y2L1,Exosome complex exonuclease RRP44,PF00773
+Q9Y2L1,Exosome complex exonuclease RRP44,PF17216
+Q9Y2L1,Exosome complex exonuclease RRP44,PF17215
+O60508,Pre-mRNA-processing factor 17,PF00400
+P30531,Sodium- and chloride-dependent GABA transporter 1,PF00209
+Q9ULU8,Calcium-dependent secretion activator 1,PF25341
+Q9ULU8,Calcium-dependent secretion activator 1,PF06292
+Q9ULU8,Calcium-dependent secretion activator 1,PF00169
+P61224,Ras-related protein Rap-1b,PF00071
+P69479,Phosphoprotein,PF03012
+Q15773,Myeloid leukemia factor 2,PF10248
+Q5THK1,Protein PRR14L,PF15386
+A0A0G2JSM7,Adducin 1,PF00596
+P26447,Protein S100-A4,PF01023
+Q2NKJ3,CST complex subunit CTC1,PF15489
+Q7Z4G4,tRNA,PF01170
+Q969U6,F-box/WD repeat-containing protein 5,PF12937
+Q969U6,F-box/WD repeat-containing protein 5,PF00400
+Q9NZN4,EH domain-containing protein 2,PF18150
+Q9NZN4,EH domain-containing protein 2,PF00350
+Q9NZN4,EH domain-containing protein 2,PF12763
+Q9NZN4,EH domain-containing protein 2,PF16880
+Q13049,E3 ubiquitin-protein ligase TRIM32,PF01436
+Q13049,E3 ubiquitin-protein ligase TRIM32,PF13445
+Q93034,Cullin-5,PF00888
+Q93034,Cullin-5,PF10557
+Q9NNW5,tRNA,PF00400
+Q96RY7,Intraflagellar transport protein 140 homolog,PF23383
+Q96RY7,Intraflagellar transport protein 140 homolog,PF23385
+Q96RY7,Intraflagellar transport protein 140 homolog,PF24762
+Q96RY7,Intraflagellar transport protein 140 homolog,PF24760
+Q9BZV1,UBX domain-containing protein 6,PF09409
+Q9BZV1,UBX domain-containing protein 6,PF00789
+P08758,Annexin A5,PF00191
+P60891,Ribose-phosphate pyrophosphokinase 1,PF14572
+P60891,Ribose-phosphate pyrophosphokinase 1,PF13793
+Q9BQ87,F-box-like/WD repeat-containing protein TBL1Y,PF08513
+Q9BQ87,F-box-like/WD repeat-containing protein TBL1Y,PF00400
+P11142,Heat shock cognate 71 kDa protein,PF00012
+P03372,Estrogen receptor,PF12743
+P03372,Estrogen receptor,PF00104
+P03372,Estrogen receptor,PF02159
+P03372,Estrogen receptor,PF00105
+P83887,Tubulin gamma-1 chain,PF00091
+P83887,Tubulin gamma-1 chain,PF03953
+Q9Z1B5,Mitotic spindle assembly checkpoint protein MAD2A,PF02301
+Q6P756,Adaptin ear-binding coat-associated protein 2,PF07933
+D4ADF5,Programmed cell death protein 5,PF01984
+P48735,"Isocitrate dehydrogenase [NADP], mitochondrial",PF00180
+Q0VDF9,Heat shock 70 kDa protein 14,PF00012
+P52298,Nuclear cap-binding protein subunit 2,PF00076
+Q9BY76,Angiopoietin-related protein 4,PF00147
+Q12834,Cell division cycle protein 20 homolog,PF24807
+P07900,Heat shock protein HSP 90-alpha,PF13589
+P07900,Heat shock protein HSP 90-alpha,PF00183
+P56282,DNA polymerase epsilon subunit 2,PF04042
+P56282,DNA polymerase epsilon subunit 2,PF12213
+Q5VTR2,E3 ubiquitin-protein ligase BRE1A,PF00097
+O94887,"FERM, ARHGEF and pleckstrin domain-containing protein 2",PF08736
+O94887,"FERM, ARHGEF and pleckstrin domain-containing protein 2",PF09380
+O94887,"FERM, ARHGEF and pleckstrin domain-containing protein 2",PF00373
+O94887,"FERM, ARHGEF and pleckstrin domain-containing protein 2",PF09379
+O94887,"FERM, ARHGEF and pleckstrin domain-containing protein 2",PF00169
+O94887,"FERM, ARHGEF and pleckstrin domain-containing protein 2",PF00621
+P35222,Catenin beta-1,PF00514
+P78344,Eukaryotic translation initiation factor 4 gamma 2,PF02847
+P78344,Eukaryotic translation initiation factor 4 gamma 2,PF02854
+P78344,Eukaryotic translation initiation factor 4 gamma 2,PF02020
+Q5JSZ5,Protein PRRC2B,PF07001
+Q7Z417,FMR1-interacting protein NUFIP2,PF15293
+Q969S8,Polyamine deacetylase HDAC10,PF00850
+Q9BY44,Eukaryotic translation initiation factor 2A,PF08662
+O14733,Dual specificity mitogen-activated protein kinase kinase 7,PF00069
+Q9NR56,Muscleblind-like protein 1,PF00642
+Q9NR56,Muscleblind-like protein 1,PF22628
+Q9NR56,Muscleblind-like protein 1,PF14608
+Q9Y2Q3,Glutathione S-transferase kappa 1,PF01323
+P0DTC5,Membrane protein,PF01635
+Q8IZ73,Pseudouridylate synthase RPUSD2,PF00849
+O95714,E3 ubiquitin-protein ligase HERC2,PF03256
+O95714,E3 ubiquitin-protein ligase HERC2,PF11515
+O95714,E3 ubiquitin-protein ligase HERC2,PF00173
+O95714,E3 ubiquitin-protein ligase HERC2,PF00632
+O95714,E3 ubiquitin-protein ligase HERC2,PF06701
+O95714,E3 ubiquitin-protein ligase HERC2,PF00415
+O95714,E3 ubiquitin-protein ligase HERC2,PF25390
+O95714,E3 ubiquitin-protein ligase HERC2,PF00569
+P49703,ADP-ribosylation factor-like protein 4D,PF00025
+P63104,14-3-3 protein zeta/delta,PF00244
+Q70CQ2,Ubiquitin carboxyl-terminal hydrolase 34,PF25010
+Q70CQ2,Ubiquitin carboxyl-terminal hydrolase 34,PF12030
+Q70CQ2,Ubiquitin carboxyl-terminal hydrolase 34,PF00443
+Q99706,Killer cell immunoglobulin-like receptor 2DL4,PF00047
+Q9Y450,HBS1-like protein,PF22594
+Q9Y450,HBS1-like protein,PF00009
+Q9Y450,HBS1-like protein,PF03144
+Q9Y450,HBS1-like protein,PF08938
+O60641,Clathrin coat assembly protein AP180,PF07651
+P0DMV9,Heat shock 70 kDa protein 1B,PF00012
+Q9H492,Microtubule-associated protein 1 light chain 3 alpha,PF02991
+P11802,Cyclin-dependent kinase 4,PF00069
+P31025,Lipocalin-1,PF00061
+Q13077,TNF receptor-associated factor 1,PF21355
+Q13077,TNF receptor-associated factor 1,PF16673
+P01889,"HLA class I histocompatibility antigen, B alpha chain",PF07654
+P01889,"HLA class I histocompatibility antigen, B alpha chain",PF00129
+P01889,"HLA class I histocompatibility antigen, B alpha chain",PF06623
+Q06418,Tyrosine-protein kinase receptor TYRO3,PF00041
+Q06418,Tyrosine-protein kinase receptor TYRO3,PF07679
+Q06418,Tyrosine-protein kinase receptor TYRO3,PF07714
+P52594,Arf-GAP domain and FG repeat-containing protein 1,PF01412
+Q9Y2G2,Caspase recruitment domain-containing protein 8,PF00619
+Q9Y2G2,Caspase recruitment domain-containing protein 8,PF13553
+Q9Y2G2,Caspase recruitment domain-containing protein 8,PF23679
+Q9Y5Y3,Probable G-protein coupled receptor 45,PF00001
+Q96IC2,RNA exonuclease 5,PF00929
+Q96IC2,RNA exonuclease 5,PF00076
+O75190,DnaJ homolog subfamily B member 6,PF00226
+O95782,AP-2 complex subunit alpha-1,PF01602
+O95782,AP-2 complex subunit alpha-1,PF02296
+O95782,AP-2 complex subunit alpha-1,PF02883
+Q9H992,E3 ubiquitin-protein ligase MARCHF7,PF12906
+P07437,Tubulin beta chain,PF00091
+P07437,Tubulin beta chain,PF03953
+Q02156,Protein kinase C epsilon type,PF00130
+Q02156,Protein kinase C epsilon type,PF00168
+Q02156,Protein kinase C epsilon type,PF00069
+Q02156,Protein kinase C epsilon type,PF00433
+P01111,GTPase NRas,PF00071
+Q9Y6B6,Small COPII coat GTPase SAR1B,PF00025
+O75419,Cell division control protein 45 homolog,PF02724
+O76090,Bestrophin-1,PF01062
+Q92844,TRAF family member-associated NF-kappa-B activator,PF12845
+Q6XD76,Achaete-scute homolog 4,PF00010
+Q9UM11,Fizzy-related protein homolog,PF24807
+Q15811,Intersectin-1,PF00168
+Q15811,Intersectin-1,PF12763
+Q15811,Intersectin-1,PF16617
+Q15811,Intersectin-1,PF16652
+Q15811,Intersectin-1,PF00621
+Q15811,Intersectin-1,PF00018
+Q15811,Intersectin-1,PF07653
+Q15811,Intersectin-1,PF14604
+Q8IUD2,ELKS/Rab6-interacting/CAST family member 1,PF10174
+Q8IUD2,ELKS/Rab6-interacting/CAST family member 1,PF09457
+P03427,Polymerase basic protein 2,PF20947
+P03427,Polymerase basic protein 2,PF20948
+P03427,Polymerase basic protein 2,PF20949
+P03427,Polymerase basic protein 2,PF20950
+P03427,Polymerase basic protein 2,PF00604
+P03427,Polymerase basic protein 2,PF20951
+P03427,Polymerase basic protein 2,PF20952
+Q9BV99,Leucine-rich repeat-containing protein 61,PF13855
+Q568Z6,IST1 homolog,PF03398
+P59633,ORF3b protein,PF12383
+Q62785,28 kDa heat- and acid-stable phosphoprotein,PF10252
+A8MQ03,Cysteine-rich tail protein 1,PF10631
+Q86SG6,Serine/threonine-protein kinase Nek8,PF00069
+Q86SG6,Serine/threonine-protein kinase Nek8,PF25390
+O75556,Mammaglobin-B,PF01099
+Q53H96,Pyrroline-5-carboxylate reductase 3,PF03807
+Q53H96,Pyrroline-5-carboxylate reductase 3,PF14748
+O15040,Tectonin beta-propeller repeat-containing protein 2,PF23756
+O15040,Tectonin beta-propeller repeat-containing protein 2,PF06462
+O15040,Tectonin beta-propeller repeat-containing protein 2,PF19193
+O15209,Zinc finger and BTB domain-containing protein 22,PF00651
+O15209,Zinc finger and BTB domain-containing protein 22,PF00096
+O43557,Tumor necrosis factor ligand superfamily member 14,PF00229
+O95218,Zinc finger Ran-binding domain-containing protein 2,PF00641
+P08069,Insulin-like growth factor 1 receptor,PF00757
+P08069,Insulin-like growth factor 1 receptor,PF07714
+P08069,Insulin-like growth factor 1 receptor,PF01030
+Q9UPZ3,BLOC-2 complex member HPS5,PF23756
+Q9UPZ3,BLOC-2 complex member HPS5,PF23758
+O14976,Cyclin-G-associated kinase,PF00069
+O14976,Cyclin-G-associated kinase,PF10409
+Q6NUQ4,Transmembrane protein 214,PF10151
+Q99961,Endophilin-A2,PF03114
+Q99961,Endophilin-A2,PF00018
+Q9Y570,Protein phosphatase methylesterase 1,PF12697
+P99026,Proteasome subunit beta type-4,PF00227
+F1LM93,Tyrosine-protein kinase Yes,PF07714
+F1LM93,Tyrosine-protein kinase Yes,PF00017
+F1LM93,Tyrosine-protein kinase Yes,PF00018
+P36915,Guanine nucleotide-binding protein-like 1,PF01926
+A8MVS5,Protein HIDE1,PF17737
+Q9H0W7,THAP domain-containing protein 2,PF05485
+Q8IXQ3,Uncharacterized protein C9orf40,PF15017
+O00422,Histone deacetylase complex subunit SAP18,PF06487
+O60741,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1,PF00027
+O60741,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1,PF00520
+O60741,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1,PF08412
+P36871,Phosphoglucomutase-1,PF24947
+P36871,Phosphoglucomutase-1,PF02878
+P36871,Phosphoglucomutase-1,PF02879
+P36871,Phosphoglucomutase-1,PF02880
+Q15836,Vesicle-associated membrane protein 3,PF00957
+Q96KG9,N-terminal kinase-like protein,PF00069
+Q86W28,"NACHT, LRR and PYD domains-containing protein 8",PF13516
+Q86W28,"NACHT, LRR and PYD domains-containing protein 8",PF05729
+Q86W28,"NACHT, LRR and PYD domains-containing protein 8",PF17776
+Q86W28,"NACHT, LRR and PYD domains-containing protein 8",PF17779
+Q86W28,"NACHT, LRR and PYD domains-containing protein 8",PF02758
+O75152,Zinc finger CCCH domain-containing protein 11A,PF15663
+P35869,Aryl hydrocarbon receptor,PF00010
+P35869,Aryl hydrocarbon receptor,PF00989
+P35869,Aryl hydrocarbon receptor,PF08447
+Q8TDX7,Serine/threonine-protein kinase Nek7,PF00069
+Q9Y624,Junctional adhesion molecule A,PF13927
+Q9Y624,Junctional adhesion molecule A,PF07686
+Q2KHM9,Protein moonraker,PF15718
+Q5H9I0,Transcription factor Dp family member 3,PF08781
+Q5H9I0,Transcription factor Dp family member 3,PF02319
+Q92917,G-patch domain and KOW motifs-containing protein,PF12656
+Q92917,G-patch domain and KOW motifs-containing protein,PF25088
+Q92917,G-patch domain and KOW motifs-containing protein,PF00467
+Q06787,Fragile X messenger ribonucleoprotein 1,PF05641
+Q06787,Fragile X messenger ribonucleoprotein 1,PF16098
+Q06787,Fragile X messenger ribonucleoprotein 1,PF12235
+Q06787,Fragile X messenger ribonucleoprotein 1,PF00013
+Q06787,Fragile X messenger ribonucleoprotein 1,PF17904
+Q06787,Fragile X messenger ribonucleoprotein 1,PF18336
+P35550,rRNA 2'-O-methyltransferase fibrillarin,PF01269
+P42232,Signal transducer and activator of transcription 5B,PF00017
+P42232,Signal transducer and activator of transcription 5B,PF01017
+P42232,Signal transducer and activator of transcription 5B,PF02864
+P42232,Signal transducer and activator of transcription 5B,PF02865
+P42232,Signal transducer and activator of transcription 5B,PF21354
+Q9C0B7,Transport and Golgi organization protein 6 homolog,PF23565
+Q9C0B7,Transport and Golgi organization protein 6 homolog,PF10363
+Q9C0B7,Transport and Golgi organization protein 6 homolog,PF10304
+Q9C0B7,Transport and Golgi organization protein 6 homolog,PF25267
+C5E524,Non-structural protein 1,PF00600
+O14757,Serine/threonine-protein kinase Chk1,PF00069
+P10620,Microsomal glutathione S-transferase 1,PF01124
+P31948,Stress-induced-phosphoprotein 1,PF17830
+P31948,Stress-induced-phosphoprotein 1,PF13414
+P31948,Stress-induced-phosphoprotein 1,PF13424
+P31948,Stress-induced-phosphoprotein 1,PF07719
+P31948,Stress-induced-phosphoprotein 1,PF13181
+Q6EMB2,Tubulin polyglutamylase TTLL5,PF03133
+Q8NHS0,DnaJ homolog subfamily B member 8,PF00226
+Q8WYQ5,Microprocessor complex subunit DGCR8,PF00035
+O75746,"Electrogenic aspartate/glutamate antiporter SLC25A12, mitochondrial",PF00153
+Q9NX04,AFG2-interacting ribosome maturation factor,PF15011
+O75431,Metaxin-2,PF17171
+O75431,Metaxin-2,PF10568
+Q9BYJ9,YTH domain-containing family protein 1,PF04146
+Q9ULH1,"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1",PF12796
+Q9ULH1,"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1",PF01412
+Q9ULH1,"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1",PF16746
+Q9ULH1,"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1",PF00169
+Q9ULH1,"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1",PF14604
+Q15813,Tubulin-specific chaperone E,PF01302
+Q15813,Tubulin-specific chaperone E,PF14560
+Q01804,OTU domain-containing protein 4,PF02338
+Q8N3C0,Activating signal cointegrator 1 complex subunit 3,PF00270
+Q8N3C0,Activating signal cointegrator 1 complex subunit 3,PF00271
+Q8N3C0,Activating signal cointegrator 1 complex subunit 3,PF02889
+Q8N3C0,Activating signal cointegrator 1 complex subunit 3,PF23445
+Q13596,Sorting nexin-1,PF00787
+Q13596,Sorting nexin-1,PF03700
+Q13596,Sorting nexin-1,PF09325
+P42225,Signal transducer and activator of transcription 1,PF00017
+P42225,Signal transducer and activator of transcription 1,PF12162
+P42225,Signal transducer and activator of transcription 1,PF01017
+P42225,Signal transducer and activator of transcription 1,PF02864
+P42225,Signal transducer and activator of transcription 1,PF02865
+P42225,Signal transducer and activator of transcription 1,PF21354
+Q8WUA2,Peptidyl-prolyl cis-trans isomerase-like 4,PF00160
+Q8WUA2,Peptidyl-prolyl cis-trans isomerase-like 4,PF00076
+Q9H967,WD repeat-containing protein 76,PF00400
+Q4JQW6,Tegument protein VP22,PF04823
+Q1K9H5,RNA-directed RNA polymerase catalytic subunit,PF00602
+Q9BWM7,Sideroflexin-3,PF03820
+Q9UFC0,Leucine-rich repeat and WD repeat-containing protein 1,PF23211
+Q9UFC0,Leucine-rich repeat and WD repeat-containing protein 1,PF23215
+P0CG47,Polyubiquitin-B [Cleaved into: Ubiquitin],PF00240
+P18031,Tyrosine-protein phosphatase non-receptor type 1,PF00102
+P61981,14-3-3 protein gamma,PF00244
+Q86V97,Kelch repeat and BTB domain-containing protein 6,PF07707
+Q86V97,Kelch repeat and BTB domain-containing protein 6,PF00651
+Q86V97,Kelch repeat and BTB domain-containing protein 6,PF20165
+Q86V97,Kelch repeat and BTB domain-containing protein 6,PF01344
+Q8IWU2,Serine/threonine-protein kinase LMTK2,PF07714
+Q12788,Transducin beta-like protein 3,PF08625
+Q12788,Transducin beta-like protein 3,PF00400
+Q9BRX5,DNA replication complex GINS protein PSF3,PF22466
+Q9BRX5,DNA replication complex GINS protein PSF3,PF05916
+Q9H223,EH domain-containing protein 4,PF18150
+Q9H223,EH domain-containing protein 4,PF00350
+Q9H223,EH domain-containing protein 4,PF12763
+Q9H223,EH domain-containing protein 4,PF16880
+O60763,General vesicular transport factor p115,PF18770
+O60763,General vesicular transport factor p115,PF04871
+O60763,General vesicular transport factor p115,PF04869
+Q9H6U6,BCAS3 microtubule associated cell migration factor,PF12490
+Q9H6U6,BCAS3 microtubule associated cell migration factor,PF21034
+Q8NEW0,Zinc transporter 7,PF01545
+Q68E01,Integrator complex subunit 3,PF24566
+Q68E01,Integrator complex subunit 3,PF10189
+Q9NR28,Diablo IAP-binding mitochondrial protein,PF09057
+Q1AAU6,"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1",PF12796
+Q1AAU6,"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1",PF01412
+Q1AAU6,"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1",PF16746
+Q1AAU6,"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1",PF00169
+Q1AAU6,"Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein 1",PF14604
+P12504,Virion infectivity factor,PF00559
+O75335,Liprin-alpha-4,PF00536
+O75335,Liprin-alpha-4,PF07647
+Q58FF6,Putative heat shock protein HSP 90-beta 4,PF00183
+Q0P651,Protein ABHD18,PF09752
+Q96JI7,Spatacsin,PF14649
+O43653,Prostate stem cell antigen,PF00087
+O60749,Sorting nexin-2,PF00787
+O60749,Sorting nexin-2,PF03700
+O60749,Sorting nexin-2,PF09325
+P30566,Adenylosuccinate lyase,PF10397
+P30566,Adenylosuccinate lyase,PF00206
+P60842,Eukaryotic initiation factor 4A-I,PF00270
+P60842,Eukaryotic initiation factor 4A-I,PF00271
+Q12904,Aminoacyl tRNA synthase complex-interacting multifunctional protein 1,PF01588
+Q13136,Liprin-alpha-1,PF00536
+Q13136,Liprin-alpha-1,PF07647
+Q4G176,"Malonate--CoA ligase ACSF3, mitochondrial",PF00501
+Q4G176,"Malonate--CoA ligase ACSF3, mitochondrial",PF13193
+Q96JN0,Ligand-dependent corepressor,PF05225
+P19447,General transcription and DNA repair factor IIH helicase/translocase subunit XPB,PF16203
+P19447,General transcription and DNA repair factor IIH helicase/translocase subunit XPB,PF13625
+P19447,General transcription and DNA repair factor IIH helicase/translocase subunit XPB,PF04851
+Q13151,Heterogeneous nuclear ribonucleoprotein A0,PF00076
+Q14558,Phosphoribosyl pyrophosphate synthase-associated protein 1,PF14572
+Q14558,Phosphoribosyl pyrophosphate synthase-associated protein 1,PF13793
+P0DN86,Choriogonadotropin subunit beta 3,PF00007
+Q9BUL9,Ribonuclease P protein subunit p25,PF01918
+P09466,Glycodelin,PF00061
+Q6P5F9,Exportin-1,PF08767
+Q6P5F9,Exportin-1,PF18777
+Q6P5F9,Exportin-1,PF18784
+Q6P5F9,Exportin-1,PF18787
+Q6P5F9,Exportin-1,PF03810
+Q6P5F9,Exportin-1,PF08389
+P99024,Tubulin beta-5 chain,PF00091
+P99024,Tubulin beta-5 chain,PF03953
+P0DOF2,Matrix protein,PF04785
+M0RCH6,Charged multivesicular body protein 4B,PF03357
+P22455,Fibroblast growth factor receptor 4,PF07679
+P22455,Fibroblast growth factor receptor 4,PF13927
+P22455,Fibroblast growth factor receptor 4,PF07714
+P25445,Tumor necrosis factor receptor superfamily member 6,PF00531
+P25445,Tumor necrosis factor receptor superfamily member 6,PF00020
+O94989,Rho guanine nucleotide exchange factor 15,PF00621
+P31947,14-3-3 protein sigma,PF00244
+P36507,Dual specificity mitogen-activated protein kinase kinase 2,PF00069
+Q15006,ER membrane protein complex subunit 2,PF22890
+Q6NXT2,Histone H3.3C,PF00125
+Q96BW5,N-acetyltaurine hydrolase,PF02126
+Q14689,Disco-interacting protein 2 homolog A,PF00501
+Q14689,Disco-interacting protein 2 homolog A,PF23024
+Q14689,Disco-interacting protein 2 homolog A,PF06464
+Q99666,RANBP2-like and GRIP domain-containing protein 5/6,PF01465
+Q99666,RANBP2-like and GRIP domain-containing protein 5/6,PF16704
+Q99666,RANBP2-like and GRIP domain-containing protein 5/6,PF00638
+F1LPA4,Serine/threonine-protein kinase N2,PF02185
+F1LPA4,Serine/threonine-protein kinase N2,PF00069
+F1LPA4,Serine/threonine-protein kinase N2,PF00433

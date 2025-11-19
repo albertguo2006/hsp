@@ -3,6 +3,7 @@ from bioservices import UniProt
 import requests
 import logging
 import io
+from io import StringIO
 
 # Import configuration
 try:
@@ -129,35 +130,43 @@ def get_domains_batch(accession_list):
     print(f"Retrieving domains for {len(accession_list)} unique targets...")
     domain_data = []
     
-    chunk_size = 20 
+    chunk_size = 20
     for i in range(0, len(accession_list), chunk_size):
         chunk = accession_list[i:i+chunk_size]
-        chunk = [x for x in chunk if len(x) < 15] 
+        chunk = [x for x in chunk if len(x) < 15]
         if not chunk: continue
 
-        query = " OR ".join([f"accession:{acc}" for acc in chunk])
+        # Create proper query for UniProt REST API using parentheses for OR queries
+        query = "(" + " OR ".join([f"accession:{acc}" for acc in chunk]) + ")"
         
         try:
-            df_res = u.get_df(query, columns="id,protein_name,xref_pfam")
+            # Use correct field names for UniProt REST API
+            df_res = u.search(query, columns="accession,protein_name,xref_pfam", frmt="tsv")
             
-            if df_res is not None and not df_res.empty:
-                for _, row in df_res.iterrows():
-                    target_id = row.get("Entry")
-                    # SAFETY FIX: Force string conversion
-                    target_name = str(row.get("Protein names", "Unknown"))
-                    pfam_entry = str(row.get("Pfam", ""))
-                    
-                    if not pfam_entry or pfam_entry.lower() == "nan":
-                        continue
-                    
-                    pfams = [x for x in pfam_entry.split(";") if x.strip()]
-                    
-                    for pfam_id in pfams:
-                        domain_data.append({
-                            "Target_ID": target_id,
-                            "Target_Protein_Name": target_name.split("(")[0].strip(),
-                            "Domain_ID": pfam_id
-                        })
+            # Parse TSV response
+            if df_res:
+                # Convert TSV string to DataFrame
+                from io import StringIO
+                df_parsed = pd.read_csv(StringIO(df_res), sep='\t')
+                
+                if not df_parsed.empty:
+                    for _, row in df_parsed.iterrows():
+                        target_id = row.get("Entry", "")
+                        # SAFETY FIX: Force string conversion
+                        target_name = str(row.get("Protein names", "Unknown"))
+                        pfam_entry = str(row.get("Pfam", ""))
+                        
+                        if not pfam_entry or pfam_entry.lower() == "nan" or pfam_entry == "":
+                            continue
+                        
+                        pfams = [x.strip() for x in pfam_entry.split(";") if x.strip()]
+                        
+                        for pfam_id in pfams:
+                            domain_data.append({
+                                "Target_ID": target_id,
+                                "Target_Protein_Name": target_name.split("(")[0].strip(),
+                                "Domain_ID": pfam_id
+                            })
         except Exception as e:
             print(f"  Error fetching batch {i}-{i+chunk_size}: {e}")
             
